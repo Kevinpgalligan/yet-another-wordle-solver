@@ -1,0 +1,2315 @@
+[WIN][habit] raise -> clipt -> habit
+[WIN][thorn] raise -> cloot -> froth -> thorn
+[WIN][break] raise -> blert -> break
+[WIN][verso] raise -> cowps -> verso
+[WIN][grain] raise -> gland -> grain
+[WIN][filth] raise -> linty -> filth
+[WIN][hence] raise -> nould -> porch -> hence
+[WIN][tardy] raise -> compt -> warty -> tardy
+[WIN][medic] raise -> lined -> medic
+[WIN][pride] raise -> dempt -> pride
+[WIN][forgo] raise -> cloot -> forgo
+[WIN][space] raise -> thilk -> space
+[WIN][salvo] raise -> tolan -> salvo
+[WIN][reedy] raise -> could -> reedy
+[WIN][hurry] raise -> cloot -> fyked -> hurry
+[WIN][erect] raise -> coted -> erect
+[WIN][trove] raise -> prong -> debts -> trove
+[WIN][stark] raise -> clapt -> stark
+[WIN][zebra] raise -> blert -> zebra
+[WIN][crowd] raise -> cloot -> drink -> crowd
+[WIN][ledge] raise -> nould -> delve -> ledge
+[WIN][least] raise -> bufty -> least
+[WIN][folly] raise -> could -> whang -> folly
+[WIN][shove] raise -> stonk -> scope -> shove
+[WIN][afire] raise -> afire
+[WIN][chime] raise -> cloth -> chime
+[WIN][smile] raise -> plunk -> smile
+[WIN][vegan] raise -> tepal -> began -> vegan
+[WIN][grate] raise -> drack -> gavot -> grate
+[WIN][doubt] raise -> could -> dough -> doubt
+[WIN][begun] raise -> denet -> felon -> begun
+[WIN][hotly] raise -> could -> whang -> holly -> hotly
+[WIN][hyper] raise -> coted -> ulpan -> hyper
+[WIN][gourd] raise -> cloot -> hydro -> gourd
+[WIN][afoul] raise -> cloam -> atoll -> afoul
+[WIN][flock] raise -> could -> flock
+[WIN][snowy] raise -> poynt -> synod -> snowy
+[WIN][braid] raise -> gland -> braid
+[WIN][twist] raise -> thumb -> twist
+[WIN][revel] raise -> could -> bevor -> revel
+[WIN][guilt] raise -> clint -> begun -> guilt
+[WIN][rogue] raise -> rogue
+[WIN][suave] raise -> thilk -> space -> suave
+[WIN][broom] raise -> cloot -> dumbo -> broom
+[WIN][altar] raise -> tronc -> altar
+[WIN][molar] raise -> tronc -> myrrh -> molar
+[WIN][alike] raise -> blink -> alike
+[WIN][using] raise -> plant -> suing -> using
+[WIN][chess] raise -> plugs -> chess
+[WIN][mince] raise -> lingo -> mince
+[WIN][mound] raise -> could -> bumph -> mound
+[WIN][covet] raise -> denet -> covet
+[WIN][staid] raise -> stain -> staid
+[WIN][gamma] raise -> cyton -> gamma
+[WIN][ferry] raise -> coted -> ferer -> ferry
+[WIN][lanky] raise -> cyton -> dwalm -> lanky
+[WIN][slain] raise -> stain -> slain
+[WIN][erode] raise -> prong -> debts -> erode
+[WIN][steed] raise -> tweep -> sleet -> steed
+[WIN][clank] raise -> cloam -> clang -> clank
+[WIN][snoop] raise -> poynt -> snoop
+[WIN][begat] raise -> tepal -> begat
+[WIN][brash] raise -> gybes -> brash
+[WIN][flunk] raise -> could -> flunk
+[WIN][wheat] raise -> tepal -> wheat
+[WIN][briar] raise -> blaff -> briar
+[WIN][atone] raise -> black -> atone
+[WIN][bicep] raise -> lined -> bicep
+[WIN][smirk] raise -> shirk -> smirk
+[WIN][slosh] raise -> slobs -> slosh
+[WIN][spasm] raise -> slash -> spasm
+[WIN][audit] raise -> alant -> audit
+[WIN][scarf] raise -> clapt -> scary -> scarf
+[WIN][seedy] raise -> tweep -> seedy
+[WIN][reply] raise -> could -> reply
+[WIN][bilge] raise -> lingo -> bilge
+[WIN][myrrh] raise -> cloot -> fyked -> myrrh
+[WIN][clout] raise -> could -> clout
+[WIN][saint] raise -> saint
+[WIN][angel] raise -> tepal -> angel
+[WIN][pudgy] raise -> could -> dumpy -> pudgy
+[WIN][chard] raise -> tronc -> charm -> chard
+[WIN][chuck] raise -> could -> chuck
+[WIN][pixie] raise -> lingo -> punce -> pixie
+[WIN][fibre] raise -> fibre
+[WIN][grope] raise -> prong -> grope
+[WIN][brave] raise -> drack -> gavot -> brave
+[WIN][creep] raise -> coted -> creep
+[WIN][await] raise -> alant -> await
+[WIN][swear] raise -> hempy -> swear
+[WIN][crave] raise -> drack -> avant -> crave
+[WIN][tried] raise -> drift -> tried
+[WIN][inter] raise -> vined -> infer -> inter
+[WIN][ditty] raise -> linty -> bifid -> ditty
+[WIN][chaos] raise -> clapt -> chaos
+[WIN][hilly] raise -> linty -> famed -> bokeh -> hilly
+[WIN][north] raise -> cloot -> nohow -> north
+[WIN][rebus] raise -> rebus
+[WIN][ratio] raise -> doped -> ratio
+[WIN][title] raise -> lingo -> title
+[WIN][mafia] raise -> clipt -> mafia
+[WIN][gazer] raise -> empty -> gowfs -> gazer
+[WIN][shale] raise -> thilk -> shale
+[WIN][slink] raise -> plant -> slink
+[WIN][twine] raise -> cloth -> twine
+[WIN][asset] raise -> knelt -> asset
+[WIN][clove] raise -> nould -> veges -> clove
+[WIN][reuse] raise -> reuse
+[WIN][aroma] raise -> tronc -> broad -> aroma
+[WIN][stunt] raise -> poynt -> shunt -> stunt
+[WIN][kebab] raise -> tepal -> began -> kebab
+[WIN][jelly] raise -> denet -> brogh -> jelly
+[WIN][latch] raise -> cyton -> blimp -> latch
+[WIN][crust] raise -> court -> crust
+[WIN][droop] raise -> cloot -> dumbo -> droop
+[WIN][chart] raise -> tronc -> chart
+[WIN][stead] raise -> knelt -> stead
+[WIN][widen] raise -> lined -> widen
+[WIN][thank] raise -> cloam -> guava -> thank
+[WIN][hobby] raise -> could -> gooby -> hobby
+[WIN][tutor] raise -> cloot -> outby -> tutor
+[WIN][plate] raise -> black -> dempt -> plate
+[WIN][horse] raise -> netop -> horse
+[WIN][spike] raise -> plunk -> spike
+[WIN][piano] raise -> alant -> piano
+[WIN][crick] raise -> tronk -> biccy -> crick
+[WIN][below] raise -> denet -> brogh -> below
+[WIN][early] raise -> empty -> early
+[WIN][macaw] raise -> cyton -> macaw
+[WIN][lodge] raise -> nould -> lodge
+[WIN][force] raise -> prong -> force
+[WIN][belle] raise -> nould -> belle
+[WIN][taffy] raise -> cyton -> bufty -> taffy
+[WIN][bland] raise -> cloam -> blank -> bland
+[WIN][sheet] raise -> tweep -> sleet -> sheet
+[WIN][cling] raise -> clint -> clink -> cling
+[WIN][rally] raise -> lohan -> rally
+[WIN][pried] raise -> drift -> pried
+[WIN][aider] raise -> aider
+[WIN][stone] raise -> stonk -> stone
+[WIN][ranch] raise -> lohan -> ranch
+[WIN][relic] raise -> dempt -> relic
+[WIN][juice] raise -> cloth -> juice
+[WIN][store] raise -> potch -> store
+[WIN][clang] raise -> cloam -> clang
+[WIN][truss] raise -> court -> truss
+[WIN][clued] raise -> denet -> clued
+[WIN][honey] raise -> denet -> nimbi -> honey
+[WIN][equip] raise -> lined -> equip
+[WIN][sauce] raise -> thump -> sauce
+[WIN][speed] raise -> tweep -> speed
+[WIN][mulch] raise -> could -> mulch
+[WIN][chair] raise -> gland -> trait -> chair
+[WIN][butte] raise -> nould -> fugue -> butte
+[WIN][voila] raise -> plong -> voila
+[WIN][lurch] raise -> cloot -> lurch
+[WIN][edify] raise -> chynd -> edify
+[WIN][razor] raise -> lohan -> razor
+[WIN][opine] raise -> cloth -> ovine -> opine
+[WIN][plume] raise -> nould -> fumet -> plume
+[WIN][slave] raise -> thilk -> slave
+[WIN][mouse] raise -> cloth -> posse -> mouse
+[WIN][ovate] raise -> black -> apted -> ovate
+[WIN][ardor] raise -> tronc -> dwalm -> ardor
+[WIN][sheer] raise -> wheep -> sheer
+[WIN][sound] raise -> poynt -> sound
+[WIN][wagon] raise -> cyton -> wagon
+[WIN][slyly] raise -> poynt -> slyly
+[WIN][heart] raise -> blert -> heart
+[WIN][owing] raise -> clint -> doing -> owing
+[WIN][slang] raise -> clapt -> slang
+[WIN][fishy] raise -> shout -> fishy
+[WIN][bloom] raise -> could -> bloom
+[WIN][spray] raise -> clapt -> spray
+[WIN][moose] raise -> cloth -> begun -> moose
+[WIN][mecca] raise -> tepal -> heavy -> mecca
+[WIN][scaly] raise -> clapt -> scald -> scaly
+[WIN][taboo] raise -> cyton -> taboo
+[WIN][floss] raise -> slobs -> gloss -> floss
+[WIN][motif] raise -> linty -> optic -> motif
+[WIN][kinky] raise -> linty -> kiddo -> kinky
+[WIN][bevel] raise -> denet -> bevel
+[WIN][stung] raise -> poynt -> stung
+[WIN][gumbo] raise -> could -> outgo -> gumbo
+[WIN][lefty] raise -> denet -> patly -> lefty
+[WIN][nosey] raise -> tweep -> nosey
+[WIN][ideal] raise -> media -> ideal
+[WIN][coach] raise -> cloam -> coach
+[WIN][gruff] raise -> cloot -> fyked -> gruff
+[WIN][odder] raise -> coted -> idola -> odder
+[WIN][meant] raise -> tepal -> death -> meant
+[WIN][virus] raise -> strip -> virus
+[WIN][tease] raise -> butch -> tease
+[WIN][shiny] raise -> plant -> suing -> shiny
+[WIN][their] raise -> vined -> their
+[WIN][prove] raise -> prong -> probe -> prove
+[WIN][flood] raise -> could -> flood
+[WIN][spire] raise -> shire -> spire
+[WIN][axial] raise -> plong -> axial
+[WIN][primo] raise -> tronk -> primo
+[WIN][there] raise -> prong -> there
+[WIN][manga] raise -> cyton -> manga
+[WIN][serum] raise -> wheep -> serum
+[WIN][porch] raise -> cloot -> porch
+[WIN][flair] raise -> gland -> flair
+[WIN][delve] raise -> nould -> delve
+[WIN][vixen] raise -> lined -> vixen
+[WIN][midst] raise -> stays -> midst
+[WIN][burnt] raise -> cloot -> brunt -> burnt
+[WIN][hitch] raise -> linty -> crowd -> hitch
+[WIN][undid] raise -> linty -> unzip -> undid
+[WIN][crown] raise -> cloot -> drink -> crown
+[WIN][pedal] raise -> tepal -> pedal
+[WIN][verve] raise -> prong -> there -> verve
+[WIN][sport] raise -> poynt -> sport
+[WIN][salty] raise -> tolan -> salty
+[WIN][splat] raise -> clapt -> splat
+[WIN][night] raise -> linty -> night
+[WIN][drape] raise -> drack -> drape
+[WIN][money] raise -> denet -> nimbi -> money
+[WIN][pagan] raise -> cyton -> pagan
+[WIN][skulk] raise -> poynt -> shuck -> skulk
+[WIN][lunge] raise -> nould -> lunge
+[WIN][manic] raise -> clipt -> manic
+[WIN][place] raise -> black -> place
+[WIN][downy] raise -> could -> dowdy -> downy
+[WIN][drone] raise -> prong -> drone
+[WIN][spree] raise -> potch -> spree
+[WIN][annul] raise -> cloam -> bufty -> annul
+[WIN][spend] raise -> tweep -> medic -> spend
+[WIN][grove] raise -> prong -> grove
+[WIN][beast] raise -> bufty -> beast
+[WIN][bring] raise -> tronk -> bring
+[WIN][sushi] raise -> shout -> sushi
+[WIN][jerky] raise -> coted -> ferer -> perky -> jerky
+[WIN][extol] raise -> denet -> extol
+[WIN][evoke] raise -> nould -> choke -> evoke
+[WIN][whose] raise -> cloth -> whose
+[WIN][vista] raise -> stain -> vista
+[WIN][pouty] raise -> could -> youth -> pouty
+[WIN][fauna] raise -> cyton -> manga -> fauna
+[WIN][woman] raise -> cloam -> nomad -> woman
+[WIN][croup] raise -> cloot -> drink -> croup
+[WIN][sheen] raise -> tweep -> sleek -> sheen
+[WIN][stoic] raise -> shout -> stoic
+[WIN][boule] raise -> nould -> boule
+[WIN][abled] raise -> tepal -> abled
+[WIN][crump] raise -> cloot -> ambry -> crump
+[WIN][staff] raise -> clapt -> stand -> staff
+[WIN][barge] raise -> biccy -> barge
+[WIN][weigh] raise -> chynd -> weigh
+[WIN][ethos] raise -> tweep -> fetus -> ethos
+[WIN][raspy] raise -> raspy
+[WIN][human] raise -> cloam -> human
+[WIN][abbey] raise -> tepal -> annex -> abbey
+[WIN][preen] raise -> coted -> ulpan -> preen
+[WIN][flash] raise -> slash -> clash -> flash
+[WIN][amity] raise -> plong -> amity
+[WIN][route] raise -> rogue -> route
+[WIN][cramp] raise -> tronc -> weepy -> cramp
+[WIN][newer] raise -> coted -> ulpan -> newer
+[WIN][agate] raise -> black -> apted -> agate
+[WIN][storm] raise -> poynt -> storm
+[WIN][bloat] raise -> cloam -> begun -> bloat
+[WIN][basin] raise -> celts -> basin
+[WIN][polka] raise -> cloam -> koala -> polka
+[WIN][entry] raise -> coted -> entry
+[WIN][stein] raise -> stein
+[WIN][shelf] raise -> tweep -> shelf
+[WIN][junto] raise -> could -> outgo -> junto
+[WIN][crawl] raise -> tronc -> weepy -> crawl
+[WIN][arbor] raise -> tronc -> dwalm -> arbor
+[WIN][utile] raise -> cloth -> utile
+[WIN][stunk] raise -> poynt -> stung -> stunk
+[WIN][owner] raise -> coted -> offer -> owner
+[WIN][scorn] raise -> poynt -> crowd -> scorn
+[WIN][bluer] raise -> coted -> ulpan -> bluer
+[WIN][adult] raise -> cloam -> bufty -> adult
+[WIN][brief] raise -> drift -> grief -> brief
+[WIN][groan] raise -> tronc -> groan
+[WIN][slept] raise -> tweep -> spent -> slept
+[WIN][perch] raise -> coted -> perch
+[WIN][sauna] raise -> tolan -> sandy -> sauna
+[WIN][sweat] raise -> knelt -> sweat
+[WIN][swamp] raise -> clapt -> swamp
+[WIN][deter] raise -> coted -> deter
+[WIN][quiet] raise -> chynd -> quiet
+[WIN][nurse] raise -> netop -> nurse
+[WIN][tapir] raise -> tapir
+[WIN][smell] raise -> tweep -> shelf -> smell
+[WIN][fairy] raise -> fishy -> fairy
+[WIN][skill] raise -> plant -> skill
+[WIN][scald] raise -> clapt -> scald
+[WIN][itchy] raise -> linty -> itchy
+[WIN][surer] raise -> wheep -> surer
+[WIN][depth] raise -> denet -> detox -> depth
+[WIN][dizzy] raise -> linty -> podgy -> dizzy
+[WIN][ghoul] raise -> could -> ghoul
+[WIN][liege] raise -> lingo -> liege
+[WIN][gorge] raise -> prong -> gorge
+[WIN][belch] raise -> denet -> brogh -> belch
+[WIN][vital] raise -> alant -> tidal -> vital
+[WIN][court] raise -> cloot -> court
+[WIN][lover] raise -> coted -> mawky -> thanx -> lover
+[WIN][other] raise -> coted -> other
+[WIN][blink] raise -> clint -> blink
+[WIN][ounce] raise -> nould -> ounce
+[WIN][guile] raise -> cloth -> guile
+[WIN][skate] raise -> thilk -> skate
+[WIN][cargo] raise -> compt -> carol -> cargo
+[WIN][fully] raise -> could -> begun -> fully
+[WIN][stout] raise -> poynt -> buchu -> stout
+[WIN][dodgy] raise -> could -> dowdy -> dodgy
+[WIN][chord] raise -> cloot -> drink -> chord
+[WIN][mercy] raise -> coted -> perch -> mercy
+[WIN][hunch] raise -> could -> human -> hunch
+[WIN][dusty] raise -> poynt -> dwalm -> dusty
+[WIN][foyer] raise -> coted -> mawky -> foyer
+[WIN][plunk] raise -> could -> flunk -> plunk
+[WIN][tacit] raise -> clipt -> tacit
+[WIN][annex] raise -> tepal -> annex
+[WIN][which] raise -> clint -> juicy -> which
+[WIN][farce] raise -> biccy -> farce
+[WIN][vying] raise -> clint -> doing -> vying
+[WIN][fancy] raise -> cyton -> fancy
+[WIN][realm] raise -> hylas -> realm
+[WIN][pesky] raise -> tweep -> pesky
+[WIN][wrack] raise -> tronc -> weepy -> wrack
+[WIN][refit] raise -> dempt -> refit
+[WIN][young] raise -> could -> youth -> young
+[WIN][fetid] raise -> lined -> fetid
+[WIN][parry] raise -> compt -> parka -> parry
+[WIN][sharp] raise -> clapt -> sharp
+[WIN][tidal] raise -> alant -> tidal
+[WIN][chalk] raise -> cloam -> chalk
+[WIN][guide] raise -> cloth -> guide
+[WIN][throw] raise -> cloot -> outby -> throw
+[WIN][gripe] raise -> dempt -> gripe
+[WIN][poker] raise -> coted -> mawky -> joker -> poker
+[WIN][greet] raise -> coted -> beret -> greet
+[WIN][sunny] raise -> poynt -> sunny
+[WIN][crepe] raise -> prong -> crepe
+[WIN][polyp] raise -> could -> estop -> polyp
+[WIN][femur] raise -> coted -> ferer -> femur
+[WIN][crone] raise -> prong -> drone -> crone
+[WIN][leave] raise -> black -> leave
+[WIN][shone] raise -> stonk -> shone
+[WIN][blank] raise -> cloam -> blank
+[WIN][clash] raise -> slash -> clash
+[WIN][dying] raise -> clint -> doing -> dying
+[WIN][bound] raise -> could -> bumph -> bound
+[WIN][natal] raise -> cyton -> natal
+[WIN][vocal] raise -> cloam -> lovey -> vocal
+[WIN][jaunt] raise -> cyton -> hoved -> thagi -> jaunt
+[WIN][towel] raise -> denet -> motel -> towel
+[WIN][egret] raise -> coted -> beret -> egret
+[WIN][civic] raise -> linty -> vivid -> civic
+[WIN][facet] raise -> notch -> facet
+[WIN][abort] raise -> tronc -> abort
+[WIN][ashen] raise -> knelt -> ashen
+[WIN][woven] raise -> denet -> clove -> woven
+[WIN][brisk] raise -> estop -> brisk
+[WIN][gayly] raise -> cyton -> ledgy -> gayly
+[WIN][fence] raise -> nould -> porch -> fence
+[WIN][bongo] raise -> could -> gooby -> bongo
+[WIN][satin] raise -> celts -> satin
+[WIN][paddy] raise -> cyton -> ledgy -> paddy
+[WIN][sadly] raise -> tolan -> sadly
+[WIN][unfit] raise -> linty -> unfit
+[WIN][blond] raise -> could -> flood -> blond
+[WIN][torso] raise -> court -> torso
+[WIN][gypsy] raise -> slobs -> gypsy
+[WIN][scare] raise -> nicht -> scare
+[WIN][pushy] raise -> poynt -> pushy
+[WIN][payer] raise -> empty -> payer
+[WIN][lumpy] raise -> could -> lumpy
+[WIN][whale] raise -> black -> leave -> whale
+[WIN][crane] raise -> drack -> avant -> crane
+[WIN][color] raise -> cloot -> color
+[WIN][split] raise -> shout -> split
+[WIN][crest] raise -> cowps -> crest
+[WIN][drunk] raise -> cloot -> fyked -> drunk
+[WIN][dream] raise -> blert -> macaw -> dream
+[WIN][motto] raise -> could -> gooby -> motto
+[WIN][reach] raise -> hylas -> reach
+[WIN][optic] raise -> linty -> optic
+[WIN][fraud] raise -> tronc -> heald -> fraud
+[WIN][arise] raise -> arise
+[WIN][cheap] raise -> tepal -> cheap
+[WIN][chili] raise -> clint -> dural -> chili
+[WIN][growl] raise -> cloot -> prowl -> growl
+[WIN][shade] raise -> thilk -> umped -> shade
+[WIN][choke] raise -> nould -> choke
+[WIN][gross] raise -> court -> dross -> gross
+[WIN][plump] raise -> could -> flunk -> plump
+[WIN][serif] raise -> wiser -> serif
+[WIN][drawn] raise -> tronc -> debye -> drawn
+[WIN][goofy] raise -> could -> gooby -> goofy
+[WIN][quack] raise -> cloam -> begun -> quack
+[WIN][tamer] raise -> empty -> tamer
+[WIN][crimp] raise -> tronk -> cadgy -> crimp
+[WIN][skirt] raise -> shirk -> skirt
+[WIN][ninny] raise -> linty -> kiddo -> ninny
+[WIN][cable] raise -> gulch -> cable
+[WIN][handy] raise -> cyton -> dwalm -> handy
+[WIN][billy] raise -> linty -> famed -> bokeh -> billy
+[WIN][later] raise -> empty -> latch -> later
+[WIN][scree] raise -> potch -> scree
+[WIN][joust] raise -> slobs -> joust
+[WIN][nymph] raise -> could -> nymph
+[WIN][fizzy] raise -> linty -> podgy -> jiffy -> fizzy
+[WIN][decor] raise -> coted -> decor
+[WIN][worse] raise -> netop -> horse -> worse
+[WIN][aorta] raise -> tronc -> aorta
+[WIN][cacti] raise -> clipt -> cacti
+[WIN][berry] raise -> coted -> ferer -> berry
+[WIN][gruel] raise -> coted -> ulpan -> gruel
+[WIN][spice] raise -> plunk -> spice
+[WIN][caste] raise -> thump -> crowd -> caste
+[WIN][mimic] raise -> linty -> vivid -> mimic
+[WIN][silly] raise -> shout -> silky -> silly
+[WIN][bread] raise -> blert -> break -> bread
+[WIN][argue] raise -> drack -> argue
+[WIN][cutie] raise -> lingo -> cutie
+[WIN][boxer] raise -> coted -> mawky -> thanx -> boxer
+[WIN][weary] raise -> blert -> yearn -> weary
+[WIN][rusty] raise -> rusty
+[WIN][alpha] raise -> cloam -> blank -> alpha
+[WIN][array] raise -> tronc -> heald -> array
+[WIN][leper] raise -> coted -> ulpan -> leper
+[WIN][width] raise -> linty -> width
+[WIN][vague] raise -> gulch -> vague
+[WIN][press] raise -> cowps -> press
+[WIN][minim] raise -> linty -> crowd -> minim
+[WIN][chose] raise -> cloth -> chose
+[WIN][judge] raise -> nould -> bufty -> judge
+[WIN][death] raise -> tepal -> death
+[WIN][flung] raise -> could -> flunk -> flung
+[WIN][hoist] raise -> thumb -> hoist
+[WIN][ombre] raise -> prong -> force -> ombre
+[WIN][comic] raise -> linty -> comic
+[WIN][droit] raise -> thong -> droit
+[WIN][dress] raise -> cowps -> dress
+[WIN][reset] raise -> rebus -> reset
+[WIN][amble] raise -> black -> amble
+[WIN][kiosk] raise -> stays -> kiosk
+[WIN][comet] raise -> denet -> covet -> comet
+[WIN][email] raise -> media -> email
+[WIN][fungi] raise -> linty -> conic -> fungi
+[WIN][befit] raise -> lined -> equip -> befit
+[WIN][sword] raise -> poynt -> sword
+[WIN][peril] raise -> vined -> their -> peril
+[WIN][label] raise -> notch -> bagel -> label
+[WIN][flier] raise -> drift -> flier
+[WIN][putty] raise -> could -> phang -> bufty -> putty
+[WIN][prior] raise -> tronk -> primo -> prior
+[WIN][juicy] raise -> clint -> juicy
+[WIN][freed] raise -> coted -> begun -> freed
+[WIN][under] raise -> coted -> ernes -> under
+[WIN][thump] raise -> could -> thump
+[WIN][idiom] raise -> clint -> opium -> idiom
+[WIN][utter] raise -> coted -> enter -> utter
+[WIN][affix] raise -> alant -> aphid -> affix
+[WIN][could] raise -> could
+[WIN][tulle] raise -> nould -> tulle
+[WIN][mummy] raise -> could -> phang -> fuzzy -> mummy
+[WIN][frock] raise -> cloot -> frock
+[WIN][viola] raise -> alant -> villa -> viola
+[WIN][stood] raise -> poynt -> stood
+[WIN][tiger] raise -> vined -> flimp -> tiger
+[WIN][dolly] raise -> could -> dolly
+[WIN][squib] raise -> shout -> squib
+[WIN][racer] raise -> mince -> racer
+[WIN][radar] raise -> lohan -> radar
+[WIN][credo] raise -> coted -> credo
+[WIN][fleet] raise -> denet -> tweet -> fleet
+[WIN][diode] raise -> lingo -> biome -> diode
+[WIN][blush] raise -> slobs -> blush
+[WIN][amply] raise -> cloam -> amply
+[WIN][savor] raise -> satyr -> savor
+[WIN][defer] raise -> coted -> ernes -> defer
+[WIN][bloke] raise -> nould -> veges -> bloke
+[WIN][crank] raise -> tronc -> crank
+[WIN][grasp] raise -> gybes -> grasp
+[WIN][spunk] raise -> poynt -> spunk
+[WIN][spied] raise -> spiel -> spied
+[WIN][shush] raise -> slobs -> shush
+[WIN][dryly] raise -> cloot -> wryly -> dryly
+[WIN][shore] raise -> potch -> shore
+[WIN][speck] raise -> tweep -> medic -> speck
+[WIN][flint] raise -> clint -> flint
+[WIN][slant] raise -> clapt -> slant
+[WIN][ralph] raise -> lohan -> ralph
+[WIN][funky] raise -> could -> phang -> funky
+[WIN][while] raise -> cloth -> while
+[WIN][acute] raise -> black -> acute
+[WIN][hutch] raise -> could -> human -> hutch
+[WIN][datum] raise -> cyton -> fatal -> datum
+[WIN][voice] raise -> cloth -> voice
+[WIN][union] raise -> clint -> union
+[WIN][gaunt] raise -> cyton -> hoved -> thagi -> gaunt
+[WIN][thyme] raise -> nould -> theme -> thyme
+[WIN][gassy] raise -> plong -> gassy
+[WIN][today] raise -> cloam -> today
+[WIN][raise] raise
+[WIN][rerun] raise -> could -> rerun
+[WIN][legal] raise -> tepal -> decal -> legal
+[WIN][talon] raise -> cyton -> talon
+[WIN][vigil] raise -> linty -> vigil
+[WIN][stuck] raise -> poynt -> stuck
+[WIN][cloud] raise -> could -> cloud
+[WIN][ether] raise -> coted -> beret -> ether
+[WIN][wound] raise -> could -> bumph -> found -> wound
+[WIN][ladle] raise -> gulch -> lepta -> ladle
+[WIN][allot] raise -> cloam -> tossy -> allot
+[WIN][boast] raise -> slash -> biccy -> boast
+[WIN][venom] raise -> denet -> crowd -> venom
+[WIN][pilot] raise -> linty -> pilot
+[WIN][ember] raise -> coted -> ulpan -> fever -> ember
+[WIN][purer] raise -> coted -> ulpan -> purer
+[WIN][pesto] raise -> tweep -> pesto
+[WIN][outgo] raise -> could -> outgo
+[WIN][tasty] raise -> tolan -> tasty
+[WIN][karma] raise -> compt -> marry -> karma
+[WIN][haute] raise -> gulch -> haute
+[WIN][bowel] raise -> denet -> vowel -> bowel
+[WIN][cabal] raise -> cyton -> caulk -> cabal
+[WIN][twirl] raise -> tronk -> third -> twirl
+[WIN][coyly] raise -> could -> coyly
+[WIN][lever] raise -> coted -> ulpan -> lever
+[WIN][gloat] raise -> cloam -> begun -> gloat
+[WIN][unmet] raise -> denet -> unmet
+[WIN][cloth] raise -> could -> thorn -> cloth
+[WIN][abbot] raise -> cloam -> annoy -> abbot
+[WIN][skiff] raise -> plant -> skiff
+[WIN][pinky] raise -> linty -> kiddo -> pinky
+[WIN][speak] raise -> knelt -> speak
+[WIN][lowly] raise -> could -> whang -> lowly
+[WIN][ruddy] raise -> boody -> ruddy
+[WIN][milky] raise -> linty -> famed -> milky
+[WIN][singe] raise -> singe
+[WIN][leery] raise -> coted -> ferer -> leery
+[WIN][scene] raise -> stonk -> scene
+[WIN][plier] raise -> drift -> plier
+[WIN][scalp] raise -> clapt -> scalp
+[WIN][nerve] raise -> prong -> nerve
+[WIN][jolly] raise -> could -> whang -> folly -> jolly
+[WIN][moist] raise -> thumb -> moist
+[WIN][steak] raise -> knelt -> steak
+[WIN][swore] raise -> potch -> swore
+[WIN][eagle] raise -> gulch -> eagle
+[WIN][icily] raise -> clint -> icily
+[WIN][imbue] raise -> lingo -> cutie -> imbue
+[WIN][screw] raise -> wheep -> sower -> screw
+[WIN][surge] raise -> potch -> surge
+[WIN][cause] raise -> umped -> cause
+[WIN][fluid] raise -> linty -> folio -> fluid
+[WIN][quark] raise -> tronc -> award -> quark
+[WIN][recap] raise -> hylas -> recap
+[WIN][cavil] raise -> clipt -> cavil
+[WIN][adorn] raise -> tronc -> adorn
+[WIN][scoff] raise -> poynt -> chalk -> scoff
+[WIN][quoth] raise -> could -> outgo -> quoth
+[WIN][weird] raise -> drift -> weird
+[WIN][awash] raise -> slash -> punce -> awash
+[WIN][micro] raise -> thong -> micro
+[WIN][slime] raise -> plunk -> medic -> slime
+[WIN][swung] raise -> poynt -> slunk -> swung
+[WIN][trend] raise -> coted -> trend
+[WIN][ahead] raise -> tepal -> ahead
+[WIN][greed] raise -> coted -> begun -> greed
+[WIN][shape] raise -> thilk -> umped -> shape
+[WIN][gravy] raise -> tronc -> heald -> gravy
+[WIN][small] raise -> clapt -> shall -> small
+[WIN][bravo] raise -> tronc -> dwalm -> bravo
+[WIN][chafe] raise -> black -> chafe
+[WIN][tonic] raise -> linty -> tunic -> tonic
+[WIN][eater] raise -> empty -> eater
+[WIN][swarm] raise -> clapt -> shard -> swarm
+[WIN][rival] raise -> rival
+[WIN][glint] raise -> clint -> flint -> glint
+[WIN][locus] raise -> poynt -> locus
+[WIN][joker] raise -> coted -> mawky -> joker
+[WIN][carat] raise -> compt -> carat
+[WIN][brook] raise -> cloot -> dumbo -> brook
+[WIN][furry] raise -> cloot -> fyked -> furry
+[WIN][wiser] raise -> wiser
+[WIN][scour] raise -> poynt -> sword -> scour
+[WIN][theme] raise -> nould -> theme
+[WIN][foggy] raise -> could -> gooby -> foggy
+[WIN][algae] raise -> black -> algae
+[WIN][giver] raise -> vined -> liver -> giver
+[WIN][shack] raise -> clapt -> thorn -> shack
+[WIN][joist] raise -> thumb -> joist
+[WIN][stain] raise -> stain
+[WIN][fetch] raise -> denet -> patly -> fetch
+[WIN][flout] raise -> could -> ghoul -> flout
+[WIN][berth] raise -> coted -> exert -> berth
+[WIN][clock] raise -> could -> thorn -> clock
+[WIN][urine] raise -> dempt -> urine
+[WIN][snore] raise -> potch -> swore -> snore
+[WIN][zonal] raise -> cloam -> tonal -> zonal
+[WIN][pithy] raise -> linty -> pithy
+[WIN][lusty] raise -> poynt -> dwalm -> lusty
+[WIN][flirt] raise -> tronk -> flirt
+[WIN][joint] raise -> clint -> point -> joint
+[WIN][relax] raise -> hylas -> relax
+[WIN][mambo] raise -> cyton -> mambo
+[WIN][niece] raise -> lingo -> niece
+[WIN][silky] raise -> shout -> silky
+[WIN][bosom] raise -> poynt -> locus -> bosom
+[WIN][spool] raise -> poynt -> flock -> spool
+[WIN][admin] raise -> alant -> admin
+[WIN][quite] raise -> cloth -> quite
+[WIN][belie] raise -> lingo -> belie
+[WIN][decay] raise -> tepal -> began -> decay
+[WIN][voter] raise -> coted -> voter
+[WIN][filmy] raise -> linty -> famed -> filmy
+[WIN][trial] raise -> blaff -> trial
+[WIN][spoon] raise -> poynt -> snoop -> spoon
+[WIN][honor] raise -> cloot -> honor
+[WIN][lilac] raise -> alant -> villa -> lilac
+[WIN][freer] raise -> coted -> ulpan -> fever -> freer
+[WIN][wooer] raise -> coted -> mawky -> wooer
+[WIN][grout] raise -> cloot -> grout
+[WIN][foist] raise -> thumb -> joist -> foist
+[WIN][gooey] raise -> denet -> vowel -> gooey
+[WIN][nasty] raise -> tolan -> nasty
+[WIN][patty] raise -> cyton -> bufty -> tatty -> patty
+[WIN][polar] raise -> tronc -> myrrh -> polar
+[WIN][mushy] raise -> poynt -> haulm -> mushy
+[WIN][lofty] raise -> could -> estop -> lofty
+[WIN][tubal] raise -> cloam -> pupal -> tubal
+[WIN][shirk] raise -> shirk
+[WIN][state] raise -> thilk -> grovy -> state
+[WIN][roach] raise -> royal -> roach
+[WIN][lease] raise -> butch -> lease
+[WIN][maker] raise -> empty -> maker
+[WIN][shard] raise -> clapt -> shard
+[WIN][shrug] raise -> poynt -> shrub -> shrug
+[WIN][blitz] raise -> clint -> blitz
+[WIN][tonga] raise -> cloam -> annoy -> tonga
+[WIN][disco] raise -> shout -> disco
+[WIN][local] raise -> cloam -> lovey -> local
+[WIN][savoy] raise -> tolan -> savoy
+[WIN][comfy] raise -> could -> conch -> comfy
+[WIN][quirk] raise -> tronk -> quirk
+[WIN][three] raise -> prong -> there -> three
+[WIN][trade] raise -> drack -> grade -> trade
+[WIN][choir] raise -> thong -> choir
+[WIN][cache] raise -> gulch -> cache
+[WIN][theta] raise -> tepal -> theta
+[WIN][creak] raise -> blert -> macaw -> creak
+[WIN][stump] raise -> poynt -> stump
+[WIN][birch] raise -> thong -> birch
+[WIN][apron] raise -> tronc -> apron
+[WIN][glade] raise -> black -> dempt -> glade
+[WIN][leaky] raise -> tepal -> leaky
+[WIN][dusky] raise -> poynt -> haulm -> dusky
+[WIN][relay] raise -> hylas -> relay
+[WIN][thumb] raise -> could -> thump -> thumb
+[WIN][ridge] raise -> ridge
+[WIN][tunic] raise -> linty -> tunic
+[WIN][retro] raise -> could -> retro
+[WIN][parse] raise -> parse
+[WIN][expel] raise -> denet -> expel
+[WIN][infer] raise -> vined -> infer
+[WIN][wimpy] raise -> linty -> podgy -> wimpy
+[WIN][study] raise -> poynt -> dwalm -> study
+[WIN][rhino] raise -> rhino
+[WIN][grand] raise -> tronc -> bifid -> grand
+[WIN][pique] raise -> lingo -> punce -> pique
+[WIN][siren] raise -> wiser -> siren
+[WIN][vowel] raise -> denet -> vowel
+[WIN][spent] raise -> tweep -> spent
+[WIN][funny] raise -> could -> phang -> funny
+[WIN][spilt] raise -> plant -> spilt
+[WIN][steel] raise -> tweep -> sleet -> steel
+[WIN][rebel] raise -> could -> bevor -> rebel
+[WIN][glare] raise -> drack -> blaff -> glare
+[WIN][filer] raise -> vined -> flimp -> filer
+[WIN][sassy] raise -> plong -> sassy
+[WIN][patio] raise -> clipt -> patio
+[WIN][gaudy] raise -> cyton -> ledgy -> gaudy
+[WIN][stare] raise -> nicht -> stare
+[WIN][repel] raise -> could -> bevor -> repel
+[WIN][elegy] raise -> denet -> elegy
+[WIN][sugar] raise -> clapt -> sugar
+[WIN][wispy] raise -> shout -> wispy
+[WIN][spine] raise -> plunk -> spine
+[WIN][plaza] raise -> cloam -> blank -> plaza
+[WIN][plush] raise -> slobs -> plush
+[WIN][slice] raise -> plunk -> medic -> slice
+[WIN][scone] raise -> stonk -> shone -> scone
+[WIN][movie] raise -> lingo -> movie
+[WIN][mossy] raise -> slobs -> mossy
+[WIN][pound] raise -> could -> bumph -> pound
+[WIN][scram] raise -> clapt -> scram
+[WIN][aback] raise -> cloam -> begun -> aback
+[WIN][gayer] raise -> empty -> gayer
+[WIN][plumb] raise -> could -> flunk -> plump -> plumb
+[WIN][metro] raise -> coted -> metro
+[WIN][piney] raise -> lined -> piney
+[WIN][allay] raise -> cloam -> allay
+[WIN][broil] raise -> thong -> ivory -> broil
+[WIN][lyric] raise -> thong -> druid -> lyric
+[WIN][shift] raise -> plant -> swift -> shift
+[WIN][sooty] raise -> poynt -> sooty
+[WIN][cease] raise -> butch -> cease
+[WIN][ninth] raise -> linty -> ninth
+[WIN][renal] raise -> hylas -> renal
+[WIN][ennui] raise -> lined -> ennui
+[WIN][rotor] raise -> boody -> rotor
+[WIN][enema] raise -> tepal -> annex -> enema
+[WIN][snack] raise -> clapt -> thorn -> snack
+[WIN][fatal] raise -> cyton -> fatal
+[WIN][decal] raise -> tepal -> decal
+[WIN][dryer] raise -> coted -> ernes -> dryer
+[WIN][askew] raise -> knelt -> askew
+[WIN][along] raise -> cloam -> infos -> along
+[WIN][nobly] raise -> could -> whang -> nobly
+[WIN][whiff] raise -> clint -> opium -> whiff
+[WIN][ocean] raise -> tepal -> ahead -> ocean
+[WIN][onset] raise -> tweep -> onset
+[WIN][taint] raise -> plong -> taint
+[WIN][cabby] raise -> cyton -> cabby
+[WIN][whirl] raise -> tronk -> chirp -> whirl
+[WIN][uncle] raise -> nould -> uncle
+[WIN][trick] raise -> tronk -> trick
+[WIN][rigid] raise -> robin -> rigid
+[WIN][testy] raise -> tweep -> testy
+[WIN][rabid] raise -> doped -> rabid
+[WIN][curry] raise -> cloot -> ambry -> curry
+[WIN][payee] raise -> gulch -> maybe -> payee
+[WIN][jumpy] raise -> could -> phang -> jumpy
+[WIN][alone] raise -> black -> algae -> alone
+[WIN][woody] raise -> could -> dowdy -> woody
+[WIN][prawn] raise -> tronc -> debye -> prawn
+[WIN][clamp] raise -> cloam -> clamp
+[WIN][audio] raise -> alant -> aphid -> audio
+[WIN][idiot] raise -> clint -> idiot
+[WIN][junta] raise -> cloam -> guava -> junta
+[WIN][igloo] raise -> linty -> folio -> igloo
+[WIN][cream] raise -> blert -> macaw -> cream
+[WIN][occur] raise -> cloot -> porch -> occur
+[WIN][manor] raise -> compt -> rhyne -> manor
+[WIN][equal] raise -> tepal -> equal
+[WIN][price] raise -> dempt -> price
+[WIN][wryly] raise -> cloot -> wryly
+[WIN][trace] raise -> drack -> begun -> trace
+[WIN][award] raise -> tronc -> award
+[WIN][bonus] raise -> poynt -> bonus
+[WIN][drama] raise -> tronc -> heald -> drama
+[WIN][upper] raise -> coted -> ulpan -> upper
+[WIN][dairy] raise -> fishy -> dairy
+[WIN][fiery] raise -> vined -> fiery
+[WIN][dread] raise -> blert -> macaw -> freak -> dread
+[WIN][noose] raise -> cloth -> begun -> noose
+[WIN][cluck] raise -> could -> grype -> cluck
+[WIN][every] raise -> coted -> ferer -> every
+[WIN][chute] raise -> nould -> chute
+[WIN][botch] raise -> could -> botch
+[WIN][thief] raise -> chynd -> thief
+[WIN][flank] raise -> cloam -> blank -> plank -> flank
+[WIN][flaky] raise -> cloam -> blank -> flaky
+[WIN][forty] raise -> cloot -> nohow -> forty
+[WIN][camel] raise -> notch -> camel
+[WIN][usual] raise -> clapt -> shoal -> usual
+[WIN][seize] raise -> plunk -> seize
+[WIN][toast] raise -> slash -> biccy -> toast
+[WIN][shunt] raise -> poynt -> shunt
+[WIN][prone] raise -> prong -> prone
+[WIN][gulch] raise -> could -> mulch -> gulch
+[WIN][solar] raise -> clapt -> solar
+[WIN][olive] raise -> cloth -> olive
+[WIN][noise] raise -> noise
+[WIN][omega] raise -> tepal -> annex -> omega
+[WIN][setup] raise -> tweep -> setup
+[WIN][idyll] raise -> linty -> idyll
+[WIN][scary] raise -> clapt -> scary
+[WIN][musky] raise -> poynt -> haulm -> musky
+[WIN][ninja] raise -> alant -> ninja
+[WIN][watch] raise -> cyton -> blimp -> watch
+[WIN][segue] raise -> stonk -> segue
+[WIN][sweet] raise -> tweep -> sweet
+[WIN][abhor] raise -> tronc -> myrrh -> abhor
+[WIN][dirty] raise -> thong -> fruit -> dirty
+[WIN][field] raise -> lined -> bufty -> field
+[WIN][humor] raise -> cloot -> furor -> humor
+[WIN][tulip] raise -> linty -> tulip
+[WIN][kneed] raise -> denet -> kneed
+[WIN][needy] raise -> denet -> needy
+[WIN][bayou] raise -> cyton -> bayou
+[WIN][drool] raise -> cloot -> drool
+[WIN][dunce] raise -> nould -> dunce
+[WIN][crack] raise -> tronc -> weepy -> crack
+[WIN][slate] raise -> thilk -> slate
+[WIN][posit] raise -> shout -> posit
+[WIN][claim] raise -> alant -> medic -> claim
+[WIN][table] raise -> gulch -> lepta -> table
+[WIN][stray] raise -> clapt -> stray
+[WIN][spear] raise -> hempy -> spear
+[WIN][click] raise -> clint -> bufty -> click
+[WIN][anvil] raise -> alant -> anvil
+[WIN][wacky] raise -> cyton -> wacky
+[WIN][queue] raise -> nould -> fugue -> queue
+[WIN][broad] raise -> tronc -> broad
+[WIN][syrup] raise -> poynt -> syrup
+[WIN][phone] raise -> nould -> ozone -> phone
+[WIN][beefy] raise -> denet -> beefy
+[WIN][cigar] raise -> gland -> cigar
+[WIN][shave] raise -> thilk -> umped -> shave
+[WIN][dried] raise -> drift -> drier -> dried
+[WIN][vault] raise -> cyton -> vault
+[WIN][slush] raise -> slobs -> slush
+[WIN][abate] raise -> black -> abate
+[WIN][shrub] raise -> poynt -> shrub
+[WIN][swath] raise -> clapt -> stand -> swath
+[WIN][feast] raise -> bufty -> feast
+[WIN][eking] raise -> chynd -> eking
+[WIN][feign] raise -> chynd -> feign
+[WIN][renew] raise -> could -> renew
+[WIN][leash] raise -> bufty -> leash
+[WIN][truly] raise -> cloot -> truly
+[WIN][aware] raise -> drack -> blaff -> aware
+[WIN][elate] raise -> black -> dempt -> elate
+[WIN][miner] raise -> vined -> dwalm -> miner
+[WIN][froth] raise -> cloot -> froth
+[WIN][baker] raise -> empty -> gowfs -> baler -> baker
+[WIN][boney] raise -> denet -> nimbi -> boney
+[WIN][guppy] raise -> could -> phang -> guppy
+[WIN][horde] raise -> prong -> force -> horde
+[WIN][lunch] raise -> could -> mulch -> lunch
+[WIN][deign] raise -> chynd -> deign
+[WIN][banal] raise -> cyton -> manga -> banal
+[WIN][hoard] raise -> tronc -> myrrh -> hoard
+[WIN][scion] raise -> plant -> scion
+[WIN][beard] raise -> blert -> beard
+[WIN][hippo] raise -> linty -> vivid -> hippo
+[WIN][plane] raise -> black -> dempt -> plane
+[WIN][chasm] raise -> slash -> chasm
+[WIN][angle] raise -> black -> apple -> angle
+[WIN][rehab] raise -> hylas -> rehab
+[WIN][sleek] raise -> tweep -> sleek
+[WIN][ovary] raise -> tronc -> myrrh -> ovary
+[WIN][adage] raise -> black -> apted -> adage
+[WIN][grail] raise -> gland -> grail
+[WIN][guest] raise -> plugs -> guest
+[WIN][flail] raise -> alant -> medic -> flail
+[WIN][dance] raise -> gulch -> dance
+[WIN][patsy] raise -> plong -> patsy
+[WIN][enemy] raise -> denet -> enemy
+[WIN][outdo] raise -> could -> outdo
+[WIN][throb] raise -> cloot -> outby -> throb
+[WIN][point] raise -> clint -> point
+[WIN][teary] raise -> blert -> terra -> teary
+[WIN][moody] raise -> could -> dowdy -> moody
+[WIN][guard] raise -> tronc -> award -> guard
+[WIN][prick] raise -> tronk -> biccy -> prick
+[WIN][recut] raise -> could -> recut
+[WIN][sleep] raise -> tweep -> sleep
+[WIN][heavy] raise -> tepal -> heavy
+[WIN][dimly] raise -> linty -> famed -> dimly
+[WIN][nadir] raise -> tapir -> nadir
+[WIN][surly] raise -> poynt -> surly
+[WIN][lower] raise -> coted -> mawky -> power -> lower
+[WIN][cameo] raise -> notch -> cameo
+[WIN][antic] raise -> alant -> antic
+[WIN][sorry] raise -> poynt -> sorry
+[WIN][tempo] raise -> denet -> patly -> tempo
+[WIN][yeast] raise -> bufty -> yeast
+[WIN][elide] raise -> cloth -> glide -> elide
+[WIN][psalm] raise -> clapt -> psalm
+[WIN][tripe] raise -> dempt -> tripe
+[WIN][beret] raise -> coted -> beret
+[WIN][count] raise -> could -> cough -> count
+[WIN][clack] raise -> cloam -> clang -> clack
+[WIN][untie] raise -> lingo -> untie
+[WIN][drift] raise -> tronk -> drift
+[WIN][again] raise -> alant -> again
+[WIN][vapor] raise -> compt -> vapor
+[WIN][horny] raise -> cloot -> hydro -> horny
+[WIN][lumen] raise -> denet -> clove -> lumen
+[WIN][scrum] raise -> poynt -> shrub -> scrum
+[WIN][motel] raise -> denet -> motel
+[WIN][satyr] raise -> satyr
+[WIN][drink] raise -> tronk -> drink
+[WIN][ozone] raise -> nould -> ozone
+[WIN][piece] raise -> lingo -> punce -> piece
+[WIN][cover] raise -> coted -> waved -> cover
+[WIN][saute] raise -> thump -> saute
+[WIN][novel] raise -> denet -> clove -> novel
+[WIN][abide] raise -> blink -> abide
+[WIN][felon] raise -> denet -> felon
+[WIN][candy] raise -> cyton -> candy
+[WIN][aphid] raise -> alant -> aphid
+[WIN][chill] raise -> clint -> dural -> chill
+[WIN][timid] raise -> linty -> crowd -> timid
+[WIN][brunt] raise -> cloot -> brunt
+[WIN][ripen] raise -> dempt -> ripen
+[WIN][smart] raise -> clapt -> start -> smart
+[WIN][pivot] raise -> linty -> crowd -> pivot
+[WIN][bleak] raise -> tepal -> glean -> bleak
+[WIN][attic] raise -> alant -> attic
+[WIN][midge] raise -> lingo -> midge
+[WIN][haste] raise -> thump -> haste
+[WIN][sloth] raise -> poynt -> stood -> sloth
+[WIN][begin] raise -> lined -> begin
+[WIN][leapt] raise -> tepal -> leapt
+[WIN][boozy] raise -> could -> gooby -> boozy
+[WIN][sumac] raise -> clapt -> sumac
+[WIN][livid] raise -> linty -> livid
+[WIN][uncut] raise -> could -> human -> uncut
+[WIN][coast] raise -> slash -> biccy -> coast
+[WIN][pasty] raise -> tolan -> pasty
+[WIN][kneel] raise -> denet -> queen -> kneel
+[WIN][swish] raise -> thumb -> swish
+[WIN][golly] raise -> could -> whang -> golly
+[WIN][stomp] raise -> poynt -> stoop -> stomp
+[WIN][rajah] raise -> lohan -> rajah
+[WIN][ditto] raise -> linty -> width -> ditto
+[WIN][tenet] raise -> denet -> tenet
+[WIN][folio] raise -> linty -> folio
+[WIN][cagey] raise -> notch -> camel -> cagey
+[WIN][bough] raise -> could -> youth -> bough
+[WIN][crook] raise -> cloot -> crook
+[WIN][daily] raise -> plong -> daily
+[WIN][cynic] raise -> linty -> cynic
+[WIN][poise] raise -> noise -> poise
+[WIN][shook] raise -> poynt -> chalk -> shook
+[WIN][caddy] raise -> cyton -> cabby -> caddy
+[WIN][grill] raise -> tronk -> cadgy -> grill
+[WIN][opium] raise -> clint -> opium
+[WIN][flare] raise -> drack -> blaff -> flare
+[WIN][dowdy] raise -> could -> dowdy
+[WIN][vouch] raise -> could -> taver -> vouch
+[WIN][offer] raise -> coted -> offer
+[WIN][worst] raise -> court -> worst
+[WIN][canoe] raise -> gulch -> canoe
+[WIN][brace] raise -> drack -> begun -> brace
+[WIN][spite] raise -> plunk -> spice -> spite
+[WIN][evade] raise -> black -> apted -> evade
+[WIN][slack] raise -> clapt -> slack
+[WIN][lapel] raise -> notch -> bagel -> lapel
+[WIN][aloof] raise -> cloam -> infos -> aloof
+[WIN][prose] raise -> netop -> prose
+[WIN][sling] raise -> plant -> slink -> sling
+[WIN][sepia] raise -> sepia
+[WIN][stack] raise -> clapt -> stack
+[WIN][aisle] raise -> aisle
+[WIN][quick] raise -> clint -> juicy -> quick
+[WIN][canal] raise -> cyton -> canal
+[WIN][gland] raise -> cloam -> blank -> plant -> gland
+[WIN][girly] raise -> thong -> girly
+[WIN][snide] raise -> plunk -> snide
+[WIN][water] raise -> empty -> latch -> water
+[WIN][flute] raise -> nould -> fumet -> flute
+[WIN][pecan] raise -> tepal -> pecan
+[WIN][skull] raise -> poynt -> shuck -> skull
+[WIN][eight] raise -> lined -> eight
+[WIN][smote] raise -> stonk -> smote
+[WIN][earth] raise -> empty -> earth
+[WIN][epoch] raise -> denet -> epoch
+[WIN][leggy] raise -> denet -> brogh -> leggy
+[WIN][glide] raise -> cloth -> glide
+[WIN][glean] raise -> tepal -> glean
+[WIN][hinge] raise -> lingo -> hinge
+[WIN][crony] raise -> cloot -> drink -> crony
+[WIN][haven] raise -> notch -> haven
+[WIN][khaki] raise -> alant -> khaki
+[WIN][anode] raise -> black -> atone -> anode
+[WIN][shank] raise -> clapt -> snaky -> shank
+[WIN][smear] raise -> hempy -> smear
+[WIN][macro] raise -> compt -> macro
+[WIN][banjo] raise -> cyton -> banjo
+[WIN][swing] raise -> plant -> suing -> swing
+[WIN][after] raise -> blert -> after
+[WIN][risky] raise -> risky
+[WIN][dumpy] raise -> could -> dumpy
+[WIN][hatch] raise -> cyton -> blimp -> watch -> hatch
+[WIN][dally] raise -> cyton -> ledgy -> dally
+[WIN][river] raise -> dempt -> river
+[WIN][furor] raise -> cloot -> furor
+[WIN][smoke] raise -> stonk -> smoke
+[WIN][fatty] raise -> cyton -> bufty -> fatty
+[WIN][ruler] raise -> could -> ruler
+[WIN][plied] raise -> chynd -> plied
+[WIN][ought] raise -> could -> outgo -> ought
+[WIN][lymph] raise -> could -> glyph -> lymph
+[WIN][check] raise -> denet -> epoch -> check
+[WIN][total] raise -> cloam -> tonal -> total
+[WIN][cried] raise -> drift -> pried -> cried
+[WIN][prism] raise -> estop -> prism
+[WIN][lorry] raise -> cloot -> world -> lorry
+[WIN][blurb] raise -> cloot -> blurb
+[WIN][smelt] raise -> tweep -> smelt
+[WIN][jewel] raise -> denet -> bevel -> jewel
+[WIN][knock] raise -> could -> knock
+[WIN][major] raise -> compt -> rhyne -> major
+[WIN][shied] raise -> spiel -> shied
+[WIN][drove] raise -> prong -> debts -> drove
+[WIN][lipid] raise -> linty -> livid -> lipid
+[WIN][swami] raise -> stain -> swami
+[WIN][groom] raise -> cloot -> dumbo -> groom
+[WIN][spicy] raise -> plant -> skimp -> spicy
+[WIN][waive] raise -> waive
+[WIN][house] raise -> cloth -> house
+[WIN][bless] raise -> plugs -> bless
+[WIN][modal] raise -> cloam -> modal
+[WIN][cleat] raise -> tepal -> eclat -> cleat
+[WIN][paint] raise -> plong -> paint
+[WIN][slunk] raise -> poynt -> slunk
+[WIN][nomad] raise -> cloam -> nomad
+[WIN][apple] raise -> black -> apple
+[WIN][rarer] raise -> mince -> rarer
+[WIN][shame] raise -> thilk -> umped -> shame
+[WIN][knead] raise -> tepal -> ahead -> knead
+[WIN][anger] raise -> blert -> anger
+[WIN][craft] raise -> tronc -> craft
+[WIN][salsa] raise -> plong -> salsa
+[WIN][pygmy] raise -> could -> nymph -> pygmy
+[WIN][saner] raise -> safer -> saner
+[WIN][basic] raise -> celts -> basic
+[WIN][topic] raise -> linty -> optic -> topic
+[WIN][rouse] raise -> reuse -> rouse
+[WIN][corer] raise -> coted -> waved -> corer
+[WIN][pixel] raise -> lined -> pixel
+[WIN][flick] raise -> clint -> flick
+[WIN][froze] raise -> prong -> debts -> froze
+[WIN][pubic] raise -> linty -> comic -> pubic
+[WIN][derby] raise -> coted -> derby
+[WIN][irate] raise -> irate
+[WIN][offal] raise -> cloam -> tonal -> offal
+[WIN][moult] raise -> could -> moult
+[WIN][sonic] raise -> shout -> solid -> sonic
+[WIN][value] raise -> gulch -> value
+[WIN][holly] raise -> could -> whang -> holly
+[WIN][piggy] raise -> linty -> podgy -> piggy
+[WIN][tooth] raise -> could -> gooby -> tooth
+[WIN][ebony] raise -> denet -> enjoy -> ebony
+[WIN][melon] raise -> denet -> felon -> melon
+[WIN][macho] raise -> cyton -> macho
+[WIN][scowl] raise -> poynt -> chalk -> scowl
+[WIN][knelt] raise -> denet -> knelt
+[WIN][groin] raise -> thong -> groin
+[WIN][oaken] raise -> notch -> oaken
+[WIN][petal] raise -> tepal -> petal
+[WIN][acorn] raise -> tronc -> acorn
+[WIN][udder] raise -> coted -> ernes -> udder
+[WIN][flush] raise -> slobs -> plush -> flush
+[WIN][amber] raise -> blert -> amber
+[WIN][rebut] raise -> could -> rerun -> rebut
+[WIN][crock] raise -> cloot -> drink -> crock
+[WIN][dogma] raise -> cloam -> foamy -> dogma
+[WIN][viper] raise -> vined -> viper
+[WIN][newly] raise -> denet -> felon -> newly
+[WIN][noble] raise -> nould -> noble
+[WIN][pleat] raise -> tepal -> pleat
+[WIN][octal] raise -> cloam -> lovey -> octal
+[WIN][since] raise -> singe -> since
+[WIN][troll] raise -> cloot -> troll
+[WIN][slung] raise -> poynt -> slunk -> slung
+[WIN][dully] raise -> could -> dully
+[WIN][cheek] raise -> denet -> expel -> cheek
+[WIN][mason] raise -> tolan -> mason
+[WIN][globe] raise -> nould -> veges -> globe
+[WIN][excel] raise -> denet -> expel -> excel
+[WIN][teeth] raise -> denet -> teeth
+[WIN][mucky] raise -> could -> human -> mucky
+[WIN][briny] raise -> tronk -> bring -> briny
+[WIN][canon] raise -> cyton -> canon
+[WIN][crate] raise -> drack -> avant -> crate
+[WIN][plank] raise -> cloam -> blank -> plank
+[WIN][pulpy] raise -> could -> lumpy -> pulpy
+[WIN][drain] raise -> gland -> drain
+[WIN][fiber] raise -> vined -> flimp -> fixer -> fiber
+[WIN][incur] raise -> thong -> incur
+[WIN][tower] raise -> coted -> tower
+[WIN][guise] raise -> noise -> guise
+[WIN][humph] raise -> could -> phang -> humph
+[WIN][adore] raise -> drack -> adore
+[WIN][stiff] raise -> plant -> stick -> stiff
+[WIN][charm] raise -> tronc -> charm
+[WIN][sniff] raise -> plant -> scion -> sniff
+[WIN][focal] raise -> cloam -> lovey -> focal
+[WIN][hyena] raise -> tepal -> annex -> hyena
+[WIN][azure] raise -> drack -> azure
+[WIN][lithe] raise -> lingo -> lithe
+[WIN][ditch] raise -> linty -> crowd -> ditch
+[WIN][guild] raise -> clint -> guild
+[WIN][inane] raise -> inane
+[WIN][spell] raise -> tweep -> medic -> spell
+[WIN][skier] raise -> skier
+[WIN][taker] raise -> empty -> latch -> taker
+[WIN][essay] raise -> knelt -> essay
+[WIN][among] raise -> cloam -> among
+[WIN][black] raise -> cloam -> black
+[WIN][obese] raise -> cloth -> posse -> obese
+[WIN][stilt] raise -> plant -> stilt
+[WIN][usage] raise -> thilk -> space -> usage
+[WIN][prize] raise -> dempt -> price -> prize
+[WIN][shout] raise -> poynt -> buchu -> shout
+[WIN][steep] raise -> tweep -> steep
+[WIN][pluck] raise -> could -> pluck
+[WIN][agree] raise -> drack -> azure -> agree
+[WIN][cubic] raise -> linty -> comic -> cubic
+[WIN][media] raise -> media
+[WIN][hasty] raise -> tolan -> pasty -> hasty
+[WIN][debug] raise -> denet -> debug
+[WIN][gipsy] raise -> stays -> gipsy
+[WIN][buxom] raise -> could -> outgo -> buxom
+[WIN][axion] raise -> plong -> axion
+[WIN][truth] raise -> cloot -> thrum -> truth
+[WIN][decry] raise -> coted -> decry
+[WIN][tibia] raise -> alant -> tibia
+[WIN][eerie] raise -> fibre -> eerie
+[WIN][poser] raise -> wheep -> super -> poser
+[WIN][stoop] raise -> poynt -> stoop
+[WIN][idler] raise -> vined -> idler
+[WIN][stern] raise -> wheep -> stern
+[WIN][smite] raise -> plunk -> seize -> smite
+[WIN][sneer] raise -> wheep -> sneer
+[WIN][libel] raise -> lined -> libel
+[WIN][brake] raise -> drack -> brake
+[WIN][great] raise -> blert -> great
+[WIN][suing] raise -> plant -> suing
+[WIN][fleck] raise -> denet -> epoch -> fleck
+[WIN][guava] raise -> cloam -> guava
+[WIN][sonar] raise -> clapt -> sugar -> sonar
+[WIN][spurn] raise -> poynt -> spurn
+[WIN][aside] raise -> aside
+[WIN][trust] raise -> court -> trust
+[WIN][flume] raise -> nould -> fumet -> flume
+[WIN][nutty] raise -> could -> phang -> funky -> nutty
+[WIN][twice] raise -> cloth -> twice
+[WIN][snipe] raise -> plunk -> snipe
+[WIN][penny] raise -> denet -> crowd -> penny
+[WIN][bused] raise -> tweep -> nosey -> bused
+[WIN][inlay] raise -> alant -> inlay
+[WIN][ingot] raise -> linty -> unfit -> ingot
+[WIN][prune] raise -> prong -> prune
+[WIN][prank] raise -> tronc -> bifid -> prank
+[WIN][quail] raise -> alant -> quail
+[WIN][creek] raise -> coted -> creep -> creek
+[WIN][catty] raise -> cyton -> catty
+[WIN][ultra] raise -> tronc -> altar -> ultra
+[WIN][epoxy] raise -> denet -> epoch -> epoxy
+[WIN][would] raise -> could -> would
+[WIN][donut] raise -> could -> donut
+[WIN][leant] raise -> tepal -> leant
+[WIN][flask] raise -> slash -> estop -> flask
+[WIN][pizza] raise -> alant -> pizza
+[WIN][crime] raise -> dempt -> grime -> crime
+[WIN][clerk] raise -> coted -> clerk
+[WIN][plait] raise -> alant -> plait
+[WIN][pooch] raise -> could -> botch -> pooch
+[WIN][caper] raise -> empty -> caper
+[WIN][magic] raise -> clipt -> manic -> magic
+[WIN][lucid] raise -> linty -> logic -> lucid
+[WIN][femme] raise -> nould -> theme -> femme
+[WIN][broth] raise -> cloot -> froth -> broth
+[WIN][snort] raise -> poynt -> snort
+[WIN][minus] raise -> shout -> minus
+[WIN][spiky] raise -> plant -> skimp -> spiky
+[WIN][torch] raise -> cloot -> torch
+[WIN][wrote] raise -> prong -> debts -> wrote
+[WIN][gamer] raise -> empty -> maker -> gamer
+[WIN][modem] raise -> denet -> clued -> modem
+[WIN][genre] raise -> prong -> genre
+[WIN][risen] raise -> resin -> risen
+[WIN][dowry] raise -> cloot -> hydro -> dowry
+[WIN][gauze] raise -> gulch -> gauge -> gauze
+[WIN][maxim] raise -> clipt -> mafia -> maxim
+[WIN][taper] raise -> empty -> taper
+[WIN][blood] raise -> could -> flood -> blood
+[WIN][pupil] raise -> linty -> folio -> pupil
+[WIN][freak] raise -> blert -> macaw -> freak
+[WIN][spiel] raise -> spiel
+[WIN][mania] raise -> clipt -> mafia -> mania
+[WIN][gaffe] raise -> gulch -> gaffe
+[WIN][curio] raise -> thong -> micro -> curio
+[WIN][muddy] raise -> could -> dumpy -> muddy
+[WIN][lousy] raise -> slobs -> lousy
+[WIN][edict] raise -> chynd -> edict
+[WIN][imply] raise -> linty -> imply
+[WIN][kayak] raise -> cyton -> ledgy -> kayak
+[WIN][world] raise -> cloot -> world
+[WIN][butch] raise -> could -> human -> butch
+[WIN][index] raise -> lined -> index
+[WIN][brawl] raise -> tronc -> heald -> brawl
+[WIN][prime] raise -> dempt -> prime
+[WIN][grass] raise -> gybes -> grass
+[WIN][fugue] raise -> nould -> fugue
+[WIN][piety] raise -> lined -> eight -> piety
+[WIN][pasta] raise -> tolan -> pasty -> pasta
+[WIN][stall] raise -> clapt -> stall
+[WIN][spurt] raise -> poynt -> spurt
+[WIN][slurp] raise -> poynt -> slurp
+[WIN][wider] raise -> vined -> wider
+[WIN][palsy] raise -> plong -> palsy
+[WIN][wrong] raise -> cloot -> dwang -> wrong
+[WIN][rapid] raise -> doped -> rapid
+[WIN][glyph] raise -> could -> glyph
+[WIN][brood] raise -> cloot -> dumbo -> brood
+[WIN][ficus] raise -> shout -> minus -> ficus
+[WIN][story] raise -> poynt -> story
+[WIN][sense] raise -> cloth -> sense
+[WIN][annoy] raise -> cloam -> annoy
+[WIN][began] raise -> tepal -> began
+[WIN][bulky] raise -> could -> lumpy -> bulky
+[WIN][vigor] raise -> thong -> vigor
+[WIN][lingo] raise -> linty -> lingo
+[WIN][bingo] raise -> linty -> crowd -> bingo
+[WIN][score] raise -> potch -> score
+[WIN][labor] raise -> compt -> labor
+[WIN][fifty] raise -> linty -> bifid -> fifty
+[WIN][yield] raise -> lined -> bufty -> yield
+[WIN][stink] raise -> plant -> stink
+[WIN][slide] raise -> plunk -> medic -> slide
+[WIN][tarot] raise -> compt -> tarot
+[WIN][lying] raise -> clint -> lying
+[WIN][filly] raise -> linty -> famed -> filly
+[WIN][empty] raise -> denet -> extol -> empty
+[WIN][radio] raise -> doped -> radio
+[WIN][spark] raise -> clapt -> sharp -> spark
+[WIN][agony] raise -> cloam -> punce -> agony
+[WIN][lurid] raise -> thong -> druid -> lurid
+[WIN][forge] raise -> prong -> gorge -> forge
+[WIN][endow] raise -> denet -> endow
+[WIN][merit] raise -> vined -> their -> merit
+[WIN][teach] raise -> tepal -> teach
+[WIN][clown] raise -> could -> thorn -> clown
+[WIN][snout] raise -> poynt -> snout
+[WIN][spill] raise -> plant -> spill
+[WIN][craze] raise -> drack -> avant -> craze
+[WIN][maple] raise -> gulch -> lepta -> maple
+[WIN][abyss] raise -> slash -> abyss
+[WIN][rabbi] raise -> doped -> rabbi
+[WIN][blind] raise -> clint -> blink -> blind
+[WIN][catch] raise -> cyton -> catch
+[WIN][event] raise -> denet -> event
+[WIN][panic] raise -> clipt -> panic
+[WIN][prowl] raise -> cloot -> prowl
+[WIN][build] raise -> clint -> guild -> build
+[WIN][kappa] raise -> cyton -> gamma -> kappa
+[WIN][found] raise -> could -> bumph -> found
+[WIN][query] raise -> coted -> ferer -> query
+[WIN][issue] raise -> singe -> issue
+[WIN][heave] raise -> black -> apted -> weave -> heave
+[WIN][nudge] raise -> nould -> nudge
+[WIN][civil] raise -> linty -> vigil -> civil
+[WIN][dingy] raise -> linty -> kiddo -> dingy
+[WIN][swell] raise -> tweep -> swell
+[WIN][elder] raise -> coted -> ernes -> elder
+[WIN][revue] raise -> rogue -> revue
+[WIN][solve] raise -> stonk -> solve
+[WIN][scope] raise -> stonk -> scope
+[WIN][laugh] raise -> cyton -> gamma -> laugh
+[WIN][mamma] raise -> cyton -> gamma -> mamma
+[WIN][grace] raise -> drack -> begun -> grace
+[WIN][diner] raise -> vined -> diner
+[WIN][often] raise -> denet -> often
+[WIN][twang] raise -> cloam -> guava -> twang
+[WIN][loamy] raise -> cloam -> loamy
+[WIN][panel] raise -> notch -> panel
+[WIN][drive] raise -> dempt -> drive
+[WIN][ascot] raise -> clapt -> ascot
+[WIN][topaz] raise -> cloam -> today -> topaz
+[WIN][burly] raise -> cloot -> wryly -> burly
+[WIN][umbra] raise -> tronc -> award -> umbra
+[WIN][coral] raise -> tronc -> coral
+[WIN][thick] raise -> clint -> thick
+[WIN][sixty] raise -> shout -> sixty
+[WIN][usher] raise -> wheep -> usher
+[WIN][tenth] raise -> denet -> tenth
+[WIN][fussy] raise -> slobs -> fussy
+[WIN][twixt] raise -> clint -> idiot -> twixt
+[WIN][paler] raise -> empty -> paler
+[WIN][goose] raise -> cloth -> begun -> goose
+[WIN][tonal] raise -> cloam -> tonal
+[WIN][dealt] raise -> tepal -> leant -> dealt
+[WIN][chock] raise -> could -> chock
+[WIN][aglow] raise -> cloam -> koala -> aglow
+[WIN][evict] raise -> chynd -> evict
+[WIN][gnome] raise -> nould -> ozone -> gnome
+[WIN][sight] raise -> shout -> sight
+[WIN][bully] raise -> could -> begun -> bully
+[WIN][thigh] raise -> clint -> thigh
+[WIN][arrow] raise -> tronc -> dwalm -> arrow
+[WIN][stole] raise -> stonk -> stole
+[WIN][wreak] raise -> blert -> macaw -> wreak
+[WIN][fifth] raise -> linty -> width -> fifth
+[WIN][girth] raise -> thong -> girth
+[WIN][puree] raise -> prong -> puree
+[WIN][alibi] raise -> plong -> alibi
+[WIN][tread] raise -> blert -> tread
+[WIN][ethic] raise -> lined -> equip -> ethic
+[WIN][budge] raise -> nould -> bufty -> budge
+[WIN][amass] raise -> slash -> amass
+[WIN][saucy] raise -> tolan -> punce -> saucy
+[WIN][fling] raise -> clint -> blink -> fling
+[WIN][curse] raise -> netop -> curse
+[WIN][print] raise -> tronk -> print
+[WIN][papal] raise -> cyton -> gamma -> papal
+[WIN][unzip] raise -> linty -> unzip
+[WIN][fluke] raise -> nould -> fumet -> fluke
+[WIN][irony] raise -> thong -> irony
+[WIN][linen] raise -> lined -> linen
+[WIN][booth] raise -> could -> gooby -> booth
+[WIN][built] raise -> clint -> begun -> built
+[WIN][lasso] raise -> plong -> lasso
+[WIN][salve] raise -> thump -> salve
+[WIN][delay] raise -> tepal -> delay
+[WIN][dowel] raise -> denet -> dowel
+[WIN][class] raise -> slash -> class
+[WIN][grimy] raise -> tronk -> cadgy -> grimy
+[WIN][fried] raise -> drift -> fried
+[WIN][vapid] raise -> clipt -> vapid
+[WIN][scent] raise -> tweep -> smelt -> scent
+[WIN][harsh] raise -> harsh
+[WIN][flour] raise -> cloot -> glory -> flour
+[WIN][peach] raise -> tepal -> peach
+[WIN][until] raise -> linty -> until
+[WIN][envoy] raise -> denet -> enjoy -> envoy
+[WIN][brain] raise -> gland -> brain
+[WIN][duchy] raise -> could -> dutch -> duchy
+[WIN][stalk] raise -> clapt -> stall -> stalk
+[WIN][dutch] raise -> could -> dutch
+[WIN][white] raise -> cloth -> white
+[WIN][stuff] raise -> poynt -> stuck -> stuff
+[WIN][aloud] raise -> cloam -> infos -> aloud
+[WIN][toxin] raise -> linty -> unfit -> toxin
+[WIN][tatty] raise -> cyton -> bufty -> tatty
+[WIN][plant] raise -> cloam -> blank -> plant
+[WIN][level] raise -> denet -> bevel -> level
+[WIN][rover] raise -> could -> waved -> rover
+[WIN][light] raise -> linty -> light
+[WIN][these] raise -> cloth -> these
+[WIN][gaily] raise -> plong -> gaily
+[WIN][limbo] raise -> linty -> livid -> limbo
+[WIN][mouth] raise -> could -> youth -> mouth
+[WIN][assay] raise -> clapt -> assay
+[WIN][puffy] raise -> could -> phang -> bufty -> puffy
+[WIN][shear] raise -> hempy -> shear
+[WIN][lance] raise -> gulch -> lance
+[WIN][balmy] raise -> cyton -> ledgy -> balmy
+[WIN][share] raise -> nicht -> share
+[WIN][cycle] raise -> nould -> belle -> cycle
+[WIN][tepid] raise -> lined -> fetid -> tepid
+[WIN][patch] raise -> cyton -> blimp -> patch
+[WIN][clung] raise -> could -> grype -> clung
+[WIN][chunk] raise -> could -> chuck -> chunk
+[WIN][clump] raise -> could -> grype -> clump
+[WIN][llama] raise -> cloam -> llama
+[WIN][octet] raise -> denet -> covet -> octet
+[WIN][inert] raise -> vined -> inert
+[WIN][being] raise -> chynd -> eking -> being
+[WIN][conic] raise -> linty -> conic
+[WIN][ample] raise -> black -> apple -> ample
+[WIN][swill] raise -> plant -> skill -> swill
+[WIN][buddy] raise -> could -> dumpy -> buddy
+[WIN][right] raise -> robin -> right
+[WIN][match] raise -> cyton -> blimp -> match
+[WIN][mourn] raise -> cloot -> hydro -> mourn
+[WIN][cadet] raise -> notch -> facet -> cadet
+[WIN][phony] raise -> could -> whoop -> phony
+[WIN][nicer] raise -> vined -> nicer
+[WIN][munch] raise -> could -> human -> munch
+[WIN][blare] raise -> drack -> blaff -> blare
+[WIN][leech] raise -> denet -> beefy -> leech
+[WIN][amend] raise -> tepal -> annex -> amend
+[WIN][blimp] raise -> clint -> blimp
+[WIN][sappy] raise -> tolan -> punce -> sappy
+[WIN][conch] raise -> could -> conch
+[WIN][smoky] raise -> poynt -> showy -> smoky
+[WIN][weedy] raise -> denet -> weedy
+[WIN][quart] raise -> tronc -> altar -> quart
+[WIN][elect] raise -> denet -> eject -> elect
+[WIN][solid] raise -> shout -> solid
+[WIN][login] raise -> linty -> login
+[WIN][clean] raise -> tepal -> glean -> clean
+[WIN][stair] raise -> stair
+[WIN][stony] raise -> poynt -> stony
+[WIN][block] raise -> could -> flock -> block
+[WIN][notch] raise -> could -> botch -> notch
+[WIN][lemon] raise -> denet -> felon -> lemon
+[WIN][straw] raise -> clapt -> stray -> straw
+[WIN][vicar] raise -> gland -> vicar
+[WIN][rivet] raise -> dempt -> rivet
+[WIN][queer] raise -> coted -> ulpan -> queer
+[WIN][poppy] raise -> could -> gooby -> poppy
+[WIN][coupe] raise -> nould -> gouge -> coupe
+[WIN][bribe] raise -> dempt -> urine -> bribe
+[WIN][etude] raise -> nould -> deuce -> etude
+[WIN][trash] raise -> gybes -> trash
+[WIN][admit] raise -> alant -> audit -> admit
+[WIN][showy] raise -> poynt -> showy
+[WIN][aping] raise -> plong -> aping
+[WIN][plead] raise -> tepal -> plead
+[WIN][bushy] raise -> poynt -> haulm -> bushy
+[WIN][usurp] raise -> poynt -> slurp -> usurp
+[WIN][blaze] raise -> black -> medic -> blaze
+[WIN][exalt] raise -> tepal -> exalt
+[WIN][grown] raise -> cloot -> dwang -> grown
+[WIN][awoke] raise -> black -> awoke
+[WIN][intro] raise -> thong -> intro
+[WIN][covey] raise -> denet -> vowel -> covey
+[WIN][stool] raise -> poynt -> stood -> stool
+[WIN][crush] raise -> court -> crush
+[WIN][wrist] raise -> estop -> wrist
+[WIN][onion] raise -> clint -> union -> onion
+[WIN][taste] raise -> thump -> taste
+[WIN][whack] raise -> cloam -> begun -> whack
+[WIN][gloom] raise -> could -> bloom -> gloom
+[WIN][focus] raise -> poynt -> locus -> focus
+[WIN][comma] raise -> cloam -> comma
+[WIN][rigor] raise -> robin -> rigor
+[WIN][waver] raise -> empty -> gowfs -> waver
+[WIN][ruder] raise -> could -> ruder
+[WIN][leach] raise -> tepal -> leaky -> leach
+[WIN][humid] raise -> linty -> comic -> humid
+[WIN][mower] raise -> coted -> mawky -> mower
+[WIN][worry] raise -> cloot -> hydro -> worry
+[WIN][faint] raise -> plong -> taint -> faint
+[WIN][merge] raise -> prong -> merge
+[WIN][tawny] raise -> cyton -> tangy -> tawny
+[WIN][tango] raise -> cyton -> tango
+[WIN][chest] raise -> plugs -> chest
+[WIN][frill] raise -> tronk -> cadgy -> frill
+[WIN][wedge] raise -> nould -> hedge -> wedge
+[WIN][drier] raise -> drift -> drier
+[WIN][proof] raise -> cloot -> dumbo -> proof
+[WIN][rayon] raise -> lohan -> rayon
+[WIN][nasal] raise -> tolan -> nasal
+[WIN][sheik] raise -> stein -> sheik
+[WIN][sweep] raise -> tweep -> sweep
+[WIN][frame] raise -> drack -> gavot -> frame
+[WIN][borax] raise -> tronc -> myrrh -> borax
+[WIN][rowdy] raise -> boody -> rowdy
+[WIN][booze] raise -> nould -> booze
+[WIN][pansy] raise -> plong -> pansy
+[WIN][suite] raise -> plunk -> suite
+[WIN][liver] raise -> vined -> liver
+[WIN][climb] raise -> clint -> bufty -> climb
+[WIN][totem] raise -> denet -> motel -> totem
+[WIN][range] raise -> range
+[WIN][spade] raise -> thilk -> space -> spade
+[WIN][close] raise -> cloth -> close
+[WIN][where] raise -> prong -> there -> where
+[WIN][whole] raise -> nould -> whole
+[WIN][snake] raise -> thilk -> snake
+[WIN][jazzy] raise -> cyton -> ledgy -> hempy -> jazzy
+[WIN][tramp] raise -> tronc -> trawl -> tramp
+[WIN][whoop] raise -> could -> whoop
+[WIN][belly] raise -> denet -> brogh -> belly
+[WIN][frown] raise -> cloot -> dwang -> brown -> frown
+[WIN][wince] raise -> lingo -> mince -> wince
+[WIN][gecko] raise -> denet -> brogh -> gecko
+[WIN][roomy] raise -> boody -> roomy
+[WIN][detox] raise -> denet -> detox
+[WIN][salon] raise -> tolan -> salon
+[WIN][wring] raise -> tronk -> bring -> wring
+[WIN][acrid] raise -> gland -> acrid
+[WIN][debut] raise -> denet -> debut
+[WIN][moral] raise -> tronc -> myrrh -> moral
+[WIN][hunky] raise -> could -> phang -> hunky
+[WIN][scold] raise -> poynt -> chalk -> scold
+[WIN][shoal] raise -> clapt -> shoal
+[WIN][swash] raise -> slash -> dwalm -> swash
+[WIN][nanny] raise -> cyton -> dwalm -> nanny
+[WIN][tough] raise -> could -> youth -> tough
+[WIN][waste] raise -> thump -> crowd -> waste
+[WIN][buyer] raise -> coted -> ulpan -> queer -> buyer
+[WIN][bleed] raise -> denet -> embed -> bleed
+[WIN][chick] raise -> clint -> chick
+[WIN][adept] raise -> tepal -> adept
+[WIN][aunty] raise -> cloam -> guava -> aunty
+[WIN][diary] raise -> gland -> diary
+[WIN][baste] raise -> thump -> crowd -> baste
+[WIN][spank] raise -> clapt -> swamp -> spank
+[WIN][loath] raise -> cloam -> koala -> loath
+[WIN][thing] raise -> clint -> thing
+[WIN][terra] raise -> blert -> terra
+[WIN][demon] raise -> denet -> demon
+[WIN][fable] raise -> gulch -> lepta -> fable
+[WIN][mayor] raise -> compt -> rhyne -> mayor
+[WIN][sever] raise -> wheep -> sever
+[WIN][ionic] raise -> linty -> conic -> ionic
+[WIN][amuse] raise -> butch -> amuse
+[WIN][minor] raise -> thong -> minor
+[WIN][booby] raise -> could -> gooby -> booby
+[WIN][blame] raise -> black -> medic -> blame
+[WIN][going] raise -> clint -> doing -> going
+[WIN][enact] raise -> tepal -> exact -> enact
+[WIN][geeky] raise -> denet -> beefy -> geeky
+[WIN][purse] raise -> netop -> purse
+[WIN][avian] raise -> plong -> avian
+[WIN][venue] raise -> nould -> venue
+[WIN][whine] raise -> cloth -> whine
+[WIN][kitty] raise -> linty -> bifid -> witty -> kitty
+[WIN][rough] raise -> boody -> rough
+[WIN][refer] raise -> could -> renew -> refer
+[WIN][tenor] raise -> coted -> tenor
+[WIN][marry] raise -> compt -> marry
+[WIN][rumba] raise -> royal -> rumba
+[WIN][chant] raise -> cloam -> chaff -> chant
+[WIN][cumin] raise -> linty -> unzip -> cumin
+[WIN][brick] raise -> tronk -> biccy -> brick
+[WIN][upset] raise -> tweep -> upset
+[WIN][manly] raise -> cyton -> dwalm -> manly
+[WIN][fjord] raise -> cloot -> dwang -> fjord
+[WIN][bliss] raise -> thumb -> bliss
+[WIN][tight] raise -> linty -> crowd -> temes -> tight
+[WIN][overt] raise -> coted -> tenor -> overt
+[WIN][titan] raise -> alant -> titan
+[WIN][fresh] raise -> cowps -> fresh
+[WIN][shuck] raise -> poynt -> shuck
+[WIN][alive] raise -> blink -> alive
+[WIN][grind] raise -> tronk -> bring -> grind
+[WIN][giddy] raise -> linty -> podgy -> giddy
+[WIN][inner] raise -> vined -> inner
+[WIN][taken] raise -> notch -> taken
+[WIN][unwed] raise -> denet -> unwed
+[WIN][image] raise -> inane -> image
+[WIN][gully] raise -> could -> begun -> gully
+[WIN][bacon] raise -> cyton -> bacon
+[WIN][sulky] raise -> poynt -> haulm -> sulky
+[WIN][paper] raise -> empty -> caper -> paper
+[WIN][clone] raise -> nould -> clone
+[WIN][ulcer] raise -> coted -> ulcer
+[WIN][hover] raise -> coted -> mawky -> thanx -> hover
+[WIN][smack] raise -> clapt -> thorn -> smack
+[WIN][blade] raise -> black -> medic -> blade
+[WIN][rainy] raise -> rainy
+[WIN][carve] raise -> biccy -> carve
+[WIN][frisk] raise -> estop -> brisk -> frisk
+[WIN][youth] raise -> could -> youth
+[WIN][month] raise -> could -> gooby -> month
+[WIN][forte] raise -> prong -> force -> forte
+[WIN][islet] raise -> stein -> islet
+[WIN][might] raise -> linty -> crowd -> temes -> might
+[WIN][exult] raise -> denet -> cleft -> exult
+[WIN][unfed] raise -> denet -> unwed -> unfed
+[WIN][grief] raise -> drift -> grief
+[WIN][wheel] raise -> denet -> expel -> wheel
+[WIN][worth] raise -> cloot -> nohow -> worth
+[WIN][lunar] raise -> tronc -> lunar
+[WIN][robin] raise -> robin
+[WIN][goner] raise -> coted -> mawky -> thanx -> goner
+[WIN][moron] raise -> cloot -> honor -> moron
+[WIN][frank] raise -> tronc -> bifid -> frank
+[WIN][tiara] raise -> gland -> trait -> tiara
+[WIN][merry] raise -> coted -> ferer -> berry -> merry
+[WIN][biome] raise -> lingo -> biome
+[WIN][bigot] raise -> linty -> crowd -> pivot -> bigot
+[WIN][slimy] raise -> plant -> slick -> slimy
+[WIN][ankle] raise -> black -> ankle
+[WIN][unset] raise -> tweep -> onset -> unset
+[WIN][medal] raise -> tepal -> decal -> medal
+[WIN][salad] raise -> tolan -> salad
+[WIN][harry] raise -> compt -> harry
+[WIN][creme] raise -> prong -> creme
+[WIN][knoll] raise -> could -> knoll
+[WIN][hedge] raise -> nould -> hedge
+[WIN][start] raise -> clapt -> start
+[WIN][knife] raise -> cloth -> guide -> knife
+[WIN][drown] raise -> cloot -> dwang -> drown
+[WIN][shaky] raise -> clapt -> snaky -> shaky
+[WIN][sober] raise -> wheep -> surer -> sober
+[WIN][unite] raise -> cloth -> quite -> unite
+[WIN][aptly] raise -> cloam -> bufty -> aptly
+[WIN][shall] raise -> clapt -> shall
+[WIN][morph] raise -> cloot -> hydro -> morph
+[WIN][rumor] raise -> boody -> rumor
+[WIN][order] raise -> coted -> idola -> order
+[WIN][dough] raise -> could -> dough
+[WIN][tilde] raise -> lingo -> title -> tilde
+[WIN][welch] raise -> denet -> brogh -> welch
+[WIN][laden] raise -> notch -> panel -> laden
+[WIN][curly] raise -> cloot -> curly
+[WIN][track] raise -> tronc -> track
+[WIN][snail] raise -> stain -> snail
+[WIN][husky] raise -> poynt -> haulm -> husky
+[WIN][strut] raise -> poynt -> strut
+[WIN][caput] raise -> cyton -> caput
+[WIN][snuff] raise -> poynt -> snuck -> snuff
+[WIN][smock] raise -> poynt -> chalk -> smock
+[WIN][video] raise -> lined -> video
+[WIN][shyly] raise -> poynt -> slyly -> shyly
+[WIN][hefty] raise -> denet -> patly -> hefty
+[WIN][stash] raise -> slash -> dwalm -> stash
+[WIN][brush] raise -> court -> brush
+[WIN][turbo] raise -> cloot -> nohow -> turbo
+[WIN][hymen] raise -> denet -> clove -> hymen
+[WIN][float] raise -> cloam -> begun -> float
+[WIN][fight] raise -> linty -> crowd -> temes -> fight
+[WIN][larva] raise -> compt -> harry -> larva
+[WIN][valor] raise -> compt -> labor -> valor
+[WIN][music] raise -> shout -> music
+[WIN][daisy] raise -> daisy
+[WIN][regal] raise -> hylas -> renal -> regal
+[WIN][wooly] raise -> could -> whang -> wooly
+[WIN][trail] raise -> gland -> frail -> trail
+[WIN][loose] raise -> cloth -> loose
+[WIN][whelp] raise -> denet -> epoch -> whelp
+[WIN][easel] raise -> easel
+[WIN][loopy] raise -> could -> estop -> loopy
+[WIN][fluff] raise -> could -> flunk -> fluff
+[WIN][stamp] raise -> clapt -> stamp
+[WIN][clink] raise -> clint -> clink
+[WIN][skunk] raise -> poynt -> slunk -> skunk
+[WIN][naval] raise -> cyton -> manga -> naval
+[WIN][foamy] raise -> cloam -> foamy
+[WIN][swift] raise -> plant -> swift
+[WIN][shake] raise -> thilk -> shake
+[WIN][bride] raise -> dempt -> bride
+[WIN][blurt] raise -> cloot -> blurt
+[WIN][radii] raise -> doped -> radii
+[WIN][drill] raise -> tronk -> cadgy -> drill
+[WIN][friar] raise -> blaff -> friar
+[WIN][cower] raise -> coted -> waved -> cower
+[WIN][heron] raise -> coted -> error -> heron
+[WIN][logic] raise -> linty -> logic
+[WIN][wrest] raise -> cowps -> wrest
+[WIN][randy] raise -> lohan -> randy
+[WIN][oxide] raise -> cloth -> ovine -> oxide
+[WIN][waltz] raise -> cyton -> vault -> waltz
+[WIN][aloft] raise -> cloam -> infos -> aloft
+[WIN][react] raise -> hylas -> rearm -> react
+[WIN][noisy] raise -> thumb -> noisy
+[WIN][bluff] raise -> could -> flunk -> bluff
+[WIN][crisp] raise -> estop -> crisp
+[WIN][baron] raise -> compt -> labor -> baron
+[WIN][brass] raise -> gybes -> brass
+[WIN][depot] raise -> denet -> debut -> depot
+[WIN][bagel] raise -> notch -> bagel
+[WIN][frost] raise -> court -> frost
+[WIN][gusty] raise -> poynt -> dwalm -> gusty
+[WIN][timer] raise -> vined -> flimp -> timer
+[WIN][glove] raise -> nould -> veges -> glove
+[WIN][meaty] raise -> tepal -> death -> meaty
+[WIN][deity] raise -> chynd -> edify -> deity
+[WIN][scant] raise -> clapt -> scant
+[WIN][sally] raise -> tolan -> sally
+[WIN][decoy] raise -> denet -> debug -> decoy
+[WIN][chaff] raise -> cloam -> chaff
+[WIN][metal] raise -> tepal -> fetal -> metal
+[WIN][forth] raise -> cloot -> nohow -> forth
+[WIN][drawl] raise -> tronc -> heald -> drawl
+[WIN][borne] raise -> prong -> borne
+[WIN][quote] raise -> nould -> quote
+[WIN][soggy] raise -> poynt -> soggy
+[WIN][booty] raise -> could -> gooby -> boozy -> booty
+[WIN][brown] raise -> cloot -> dwang -> brown
+[WIN][maize] raise -> waive -> maize
+[WIN][godly] raise -> could -> dolly -> godly
+[WIN][grant] raise -> tronc -> grant
+[WIN][blunt] raise -> could -> flunk -> blunt
+[WIN][photo] raise -> could -> whoop -> photo
+[WIN][align] raise -> plong -> align
+[WIN][batty] raise -> cyton -> bufty -> batty
+[WIN][lemur] raise -> coted -> ferer -> lemur
+[WIN][loser] raise -> wheep -> surer -> loser
+[WIN][unify] raise -> clint -> union -> unify
+[WIN][rhyme] raise -> rogue -> rhyme
+[WIN][howdy] raise -> could -> dowdy -> howdy
+[WIN][artsy] raise -> gybes -> artsy
+[WIN][organ] raise -> tronc -> organ
+[WIN][rodeo] raise -> could -> rodeo
+[WIN][geese] raise -> cloth -> sense -> geese
+[WIN][shawl] raise -> clapt -> shall -> shawl
+[WIN][homer] raise -> coted -> mawky -> homer
+[WIN][shady] raise -> clapt -> snaky -> shady
+[WIN][punch] raise -> could -> human -> bunch -> punch
+[WIN][urban] raise -> tronc -> debye -> urban
+[WIN][pinto] raise -> linty -> ninth -> pinto
+[WIN][masse] raise -> umped -> masse
+[WIN][dozen] raise -> denet -> dozen
+[WIN][short] raise -> poynt -> short
+[WIN][fetal] raise -> tepal -> fetal
+[WIN][augur] raise -> tronc -> award -> augur
+[WIN][eclat] raise -> tepal -> eclat
+[WIN][thrum] raise -> cloot -> thrum
+[WIN][swept] raise -> tweep -> swept
+[WIN][alarm] raise -> tronc -> award -> alarm
+[WIN][atoll] raise -> cloam -> atoll
+[WIN][stage] raise -> thilk -> grovy -> stage
+[WIN][power] raise -> coted -> mawky -> power
+[WIN][snuck] raise -> poynt -> snuck
+[WIN][pearl] raise -> blert -> learn -> pearl
+[WIN][spiny] raise -> plant -> spiny
+[WIN][basil] raise -> celts -> basil
+[WIN][brink] raise -> tronk -> drink -> brink
+[WIN][hound] raise -> could -> bumph -> hound
+[WIN][peace] raise -> black -> peace
+[WIN][ovoid] raise -> linty -> comic -> ovoid
+[WIN][cress] raise -> cowps -> cress
+[WIN][cedar] raise -> blert -> anger -> cedar
+[WIN][lapse] raise -> umped -> lapse
+[WIN][cough] raise -> could -> cough
+[WIN][impel] raise -> lined -> impel
+[WIN][robot] raise -> boody -> robot
+[WIN][mover] raise -> coted -> mawky -> mover
+[WIN][whiny] raise -> clint -> doing -> whiny
+[WIN][cobra] raise -> tronc -> coral -> cobra
+[WIN][retry] raise -> could -> renew -> retry
+[WIN][ovine] raise -> cloth -> ovine
+[WIN][tumor] raise -> cloot -> outby -> tumor
+[WIN][lupus] raise -> poynt -> slump -> lupus
+[WIN][beady] raise -> tepal -> heavy -> beady
+[WIN][otter] raise -> coted -> outer -> otter
+[WIN][album] raise -> cloam -> album
+[WIN][halve] raise -> gulch -> halve
+[WIN][burst] raise -> court -> burst
+[WIN][champ] raise -> cloam -> champ
+[WIN][steer] raise -> wheep -> sneer -> steer
+[WIN][above] raise -> black -> above
+[WIN][sworn] raise -> poynt -> crowd -> sworn
+[WIN][demur] raise -> coted -> derby -> demur
+[WIN][shire] raise -> shire
+[WIN][vodka] raise -> cloam -> annoy -> vodka
+[WIN][stave] raise -> thilk -> grovy -> stave
+[WIN][verse] raise -> netop -> verse
+[WIN][super] raise -> wheep -> super
+[WIN][eject] raise -> denet -> eject
+[WIN][march] raise -> compt -> march
+[WIN][semen] raise -> tweep -> semen
+[WIN][crazy] raise -> tronc -> weepy -> crazy
+[WIN][perky] raise -> coted -> ferer -> perky
+[WIN][dross] raise -> court -> dross
+[WIN][quilt] raise -> clint -> begun -> quilt
+[WIN][treat] raise -> blert -> great -> treat
+[WIN][stank] raise -> clapt -> stand -> stank
+[WIN][plain] raise -> alant -> plain
+[WIN][exert] raise -> coted -> exert
+[WIN][cross] raise -> court -> cross
+[WIN][cliff] raise -> clint -> bufty -> cliff
+[WIN][crier] raise -> drift -> crier
+[WIN][rural] raise -> royal -> rural
+[WIN][parer] raise -> empty -> paler -> parer
+[WIN][spare] raise -> nicht -> spare
+[WIN][green] raise -> coted -> ulpan -> green
+[WIN][clasp] raise -> slash -> estop -> clasp
+[WIN][gouge] raise -> nould -> gouge
+[WIN][trump] raise -> cloot -> thrum -> trump
+[WIN][boost] raise -> slobs -> boost
+[WIN][shirt] raise -> shirk -> shirt
+[WIN][magma] raise -> cyton -> gamma -> magma
+[WIN][brine] raise -> dempt -> urine -> brine
+[WIN][afoot] raise -> cloam -> punce -> afoot
+[WIN][hotel] raise -> denet -> motel -> hotel
+[WIN][daddy] raise -> cyton -> ledgy -> paddy -> daddy
+[WIN][parka] raise -> compt -> parka
+[WIN][baton] raise -> cyton -> baton
+[WIN][third] raise -> tronk -> third
+[WIN][gauge] raise -> gulch -> gauge
+[WIN][cleft] raise -> denet -> cleft
+[WIN][agent] raise -> tepal -> exact -> agent
+[WIN][strip] raise -> strip
+[WIN][embed] raise -> denet -> embed
+[WIN][chain] raise -> alant -> chain
+[WIN][fewer] raise -> coted -> ulpan -> fever -> fewer
+[WIN][haunt] raise -> cyton -> hoved -> haunt
+[WIN][maybe] raise -> gulch -> maybe
+[WIN][anime] raise -> blink -> anime
+[WIN][quell] raise -> denet -> epoch -> quell
+[WIN][crash] raise -> gybes -> trash -> crash
+[WIN][layer] raise -> empty -> gayer -> layer
+[WIN][sting] raise -> plant -> stink -> sting
+[WIN][slick] raise -> plant -> slick
+[WIN][quash] raise -> slash -> punce -> quash
+[WIN][penal] raise -> tepal -> pedal -> penal
+[WIN][posse] raise -> cloth -> posse
+[WIN][error] raise -> coted -> error
+[WIN][goody] raise -> could -> dowdy -> moody -> goody
+[WIN][repay] raise -> hylas -> repay
+[WIN][humus] raise -> poynt -> shuck -> humus
+[WIN][iliac] raise -> plong -> alibi -> iliac
+[WIN][purge] raise -> prong -> purge
+[WIN][tryst] raise -> court -> tryst
+[WIN][dicey] raise -> lined -> video -> dicey
+[WIN][unlit] raise -> linty -> until -> unlit
+[WIN][tense] raise -> cloth -> tense
+[WIN][cocoa] raise -> cloam -> coach -> cocoa
+[WIN][dodge] raise -> nould -> dodge
+[WIN][fella] raise -> tepal -> leaky -> fella
+[WIN][thong] raise -> could -> whoop -> thong
+[WIN][quasi] raise -> quasi
+[WIN][mealy] raise -> tepal -> leaky -> mealy
+[WIN][sissy] raise -> stays -> sissy
+[WIN][seven] raise -> tweep -> semen -> seven
+[WIN][trope] raise -> prong -> trope
+[WIN][badly] raise -> cyton -> ledgy -> badly
+[WIN][hazel] raise -> notch -> hazel
+[WIN][ghost] raise -> slobs -> ghost
+[WIN][penne] raise -> nould -> porch -> penne
+[WIN][those] raise -> cloth -> those
+[WIN][ratty] raise -> lohan -> ratty
+[WIN][chide] raise -> cloth -> chime -> chide
+[WIN][shell] raise -> tweep -> shelf -> shell
+[WIN][deuce] raise -> nould -> deuce
+[WIN][adopt] raise -> cloam -> punce -> adopt
+[WIN][dummy] raise -> could -> dumpy -> dummy
+[WIN][visit] raise -> shout -> visit
+[WIN][shorn] raise -> poynt -> crowd -> shorn
+[WIN][alter] raise -> blert -> alter
+[WIN][finer] raise -> vined -> dwalm -> finer
+[WIN][curve] raise -> prong -> there -> curve
+[WIN][chore] raise -> prong -> chore
+[WIN][gummy] raise -> could -> phang -> gummy
+[WIN][trout] raise -> cloot -> grout -> trout
+[WIN][siege] raise -> singe -> siege
+[WIN][allow] raise -> cloam -> tossy -> allow
+[WIN][basis] raise -> celts -> basis
+[WIN][inbox] raise -> linty -> unzip -> inbox
+[WIN][abuse] raise -> butch -> abuse
+[WIN][roger] raise -> could -> waved -> roger
+[WIN][spout] raise -> poynt -> spout
+[WIN][rocky] raise -> boody -> rocky
+[WIN][scoop] raise -> poynt -> flock -> scoop
+[WIN][spawn] raise -> clapt -> swamp -> spawn
+[WIN][giant] raise -> alant -> giant
+[WIN][retch] raise -> could -> retch
+[WIN][stove] raise -> stonk -> stole -> stove
+[WIN][strap] raise -> clapt -> strap
+[WIN][vaunt] raise -> cyton -> hoved -> vaunt
+[WIN][safer] raise -> safer
+[WIN][scuba] raise -> clapt -> sumac -> scuba
+[WIN][beech] raise -> denet -> beefy -> beech
+[WIN][stake] raise -> thilk -> skate -> stake
+[WIN][squat] raise -> clapt -> squat
+[WIN][never] raise -> coted -> ulpan -> newer -> never
+[WIN][cairn] raise -> fishy -> cairn
+[WIN][puppy] raise -> could -> phang -> bufty -> puppy
+[WIN][juror] raise -> cloot -> furor -> juror
+[WIN][frond] raise -> cloot -> dwang -> frond
+[WIN][hello] raise -> denet -> brogh -> hello
+[WIN][tabby] raise -> cyton -> bufty -> tabby
+[WIN][snare] raise -> nicht -> snare
+[WIN][sigma] raise -> stain -> sigma
+[WIN][marsh] raise -> harsh -> marsh
+[WIN][axiom] raise -> plong -> axiom
+[WIN][wager] raise -> empty -> gowfs -> wager
+[WIN][inept] raise -> lined -> begin -> inept
+[WIN][cloak] raise -> cloam -> cloak
+[WIN][cabin] raise -> clipt -> cabin
+[WIN][fixer] raise -> vined -> flimp -> fixer
+[WIN][trawl] raise -> tronc -> trawl
+[WIN][skimp] raise -> plant -> skimp
+[WIN][sully] raise -> poynt -> haulm -> sully
+[WIN][mural] raise -> tronc -> award -> mural
+[WIN][false] raise -> umped -> false
+[WIN][blend] raise -> denet -> endow -> blend
+[WIN][wield] raise -> lined -> bufty -> wield
+[WIN][snarl] raise -> clapt -> snarl
+[WIN][whisk] raise -> thumb -> whisk
+[WIN][heard] raise -> blert -> yearn -> heard
+[WIN][sprig] raise -> strip -> sprig
+[WIN][beget] raise -> denet -> beget
+[WIN][churn] raise -> cloot -> ambry -> churn
+[WIN][digit] raise -> linty -> crowd -> digit
+[WIN][sneak] raise -> knelt -> sneak
+[WIN][sedan] raise -> knelt -> ashen -> sedan
+[WIN][stork] raise -> poynt -> storm -> stork
+[WIN][triad] raise -> blaff -> triad
+[WIN][beset] raise -> tweep -> beset
+[WIN][doing] raise -> clint -> doing
+[WIN][stint] raise -> plant -> stint
+[WIN][elude] raise -> nould -> elude
+[WIN][sandy] raise -> tolan -> sandy
+[WIN][swoop] raise -> poynt -> flock -> swoop
+[WIN][roost] raise -> roost
+[WIN][jiffy] raise -> linty -> podgy -> jiffy
+[WIN][sewer] raise -> wheep -> sewer
+[WIN][older] raise -> coted -> idola -> older
+[WIN][gnash] raise -> slash -> punce -> gnash
+[WIN][moldy] raise -> could -> moldy
+[WIN][bathe] raise -> gulch -> bathe
+[WIN][avoid] raise -> alant -> aphid -> avoid
+[WIN][hairy] raise -> fishy -> hairy
+[WIN][viral] raise -> gland -> viral
+[WIN][wharf] raise -> tronc -> award -> wharf
+[WIN][trait] raise -> gland -> trait
+[WIN][grunt] raise -> cloot -> brunt -> grunt
+[WIN][tweed] raise -> denet -> tweed
+[WIN][nylon] raise -> could -> bloom -> nylon
+[WIN][graze] raise -> drack -> gavot -> graze
+[WIN][unity] raise -> clint -> unity
+[WIN][alien] raise -> alien
+[WIN][amaze] raise -> black -> apted -> amaze
+[WIN][wreck] raise -> coted -> perch -> wreck
+[WIN][awake] raise -> black -> awake
+[WIN][dwell] raise -> denet -> dwell
+[WIN][miser] raise -> wiser -> miser
+[WIN][koala] raise -> cloam -> koala
+[WIN][melee] raise -> nould -> melee
+[WIN][trite] raise -> dempt -> batts -> trite
+[WIN][dingo] raise -> linty -> crowd -> dingo
+[WIN][gleam] raise -> tepal -> glean -> gleam
+[WIN][sleet] raise -> tweep -> sleet
+[WIN][wrath] raise -> tronc -> graft -> wrath
+[WIN][zesty] raise -> tweep -> fetus -> zesty
+[WIN][debit] raise -> lined -> medic -> debit
+[WIN][reign] raise -> reign
+[WIN][hussy] raise -> slobs -> fussy -> hussy
+[WIN][broke] raise -> prong -> debts -> broke
+[WIN][dopey] raise -> denet -> dowel -> dopey
+[WIN][token] raise -> denet -> often -> token
+[WIN][outer] raise -> coted -> outer
+[WIN][elbow] raise -> denet -> epoch -> elbow
+[WIN][pupal] raise -> cloam -> pupal
+[WIN][train] raise -> gland -> brain -> train
+[WIN][aging] raise -> plong -> aging
+[WIN][floor] raise -> cloot -> floor
+[WIN][fault] raise -> cyton -> vault -> fault
+[WIN][harpy] raise -> compt -> harpy
+[WIN][oddly] raise -> could -> oddly
+[WIN][dwarf] raise -> tronc -> award -> dwarf
+[WIN][eager] raise -> empty -> eager
+[WIN][wafer] raise -> empty -> gowfs -> wafer
+[WIN][squad] raise -> clapt -> assay -> squad
+[WIN][shark] raise -> clapt -> shard -> shark
+[WIN][fanny] raise -> cyton -> dwalm -> nanny -> fanny
+[WIN][finch] raise -> linty -> crowd -> finch
+[WIN][swine] raise -> plunk -> swine
+[WIN][prude] raise -> prong -> prude
+[WIN][scout] raise -> poynt -> buchu -> scout
+[WIN][bunny] raise -> could -> phang -> funny -> bunny
+[WIN][chump] raise -> could -> chuck -> chump
+[WIN][elfin] raise -> lined -> elfin
+[WIN][heist] raise -> heist
+[WIN][visor] raise -> strip -> visor
+[WIN][liken] raise -> lined -> liken
+[WIN][china] raise -> plong -> china
+[WIN][snaky] raise -> clapt -> snaky
+[WIN][spoil] raise -> shout -> spoil
+[WIN][droll] raise -> cloot -> prowl -> droll
+[WIN][binge] raise -> lingo -> hinge -> binge
+[WIN][hardy] raise -> compt -> harry -> hardy
+[WIN][waist] raise -> daisy -> waist
+[WIN][dandy] raise -> cyton -> dwalm -> dandy
+[WIN][badge] raise -> gulch -> badge
+[WIN][bawdy] raise -> cyton -> ledgy -> bawdy
+[WIN][louse] raise -> cloth -> louse
+[WIN][daunt] raise -> cyton -> hoved -> daunt
+[WIN][latte] raise -> gulch -> lepta -> latte
+[WIN][condo] raise -> could -> condo
+[WIN][prong] raise -> cloot -> dwang -> prong
+[WIN][warty] raise -> compt -> warty
+[WIN][rifle] raise -> ridge -> rifle
+[WIN][mange] raise -> gulch -> badge -> mange
+[WIN][guess] raise -> plugs -> guess
+[WIN][filet] raise -> lined -> pixel -> filet
+[WIN][bunch] raise -> could -> human -> bunch
+[WIN][beach] raise -> tepal -> heavy -> beach
+[WIN][pouch] raise -> could -> taver -> pouch
+[WIN][fetus] raise -> tweep -> fetus
+[WIN][weave] raise -> black -> apted -> weave
+[WIN][threw] raise -> coted -> beret -> threw
+[WIN][batch] raise -> cyton -> blimp -> batch
+[WIN][input] raise -> linty -> unfit -> input
+[WIN][crude] raise -> prong -> creme -> crude
+[WIN][duvet] raise -> denet -> duvet
+[WIN][crept] raise -> coted -> crept
+[WIN][hydro] raise -> cloot -> hydro
+[WIN][drank] raise -> tronc -> bifid -> drank
+[WIN][krill] raise -> tronk -> krill
+[WIN][known] raise -> could -> whoop -> known
+[WIN][cruel] raise -> coted -> creep -> cruel
+[WIN][alley] raise -> tepal -> abled -> alley
+[WIN][queen] raise -> denet -> queen
+[WIN][spelt] raise -> tweep -> spent -> spelt
+[WIN][toddy] raise -> could -> dowdy -> toddy
+[WIN][matey] raise -> notch -> matey
+[WIN][grime] raise -> dempt -> grime
+[WIN][hater] raise -> empty -> latch -> hater
+[WIN][avert] raise -> blert -> avert
+[WIN][tribe] raise -> dempt -> batts -> tribe
+[WIN][first] raise -> first
+[WIN][scrap] raise -> clapt -> scrap
+[WIN][bleep] raise -> denet -> expel -> bleep
+[WIN][musty] raise -> poynt -> dwalm -> musty
+[WIN][delta] raise -> tepal -> leant -> delta
+[WIN][colon] raise -> could -> colon
+[WIN][sower] raise -> wheep -> sower
+[WIN][spoke] raise -> stonk -> smoke -> spoke
+[WIN][steam] raise -> knelt -> stead -> steam
+[WIN][baler] raise -> empty -> gowfs -> baler
+[WIN][gamut] raise -> cyton -> vault -> gamut
+[WIN][armor] raise -> tronc -> dwalm -> armor
+[WIN][leafy] raise -> tepal -> leaky -> leafy
+[WIN][tangy] raise -> cyton -> tangy
+[WIN][emcee] raise -> nould -> theme -> emcee
+[WIN][toxic] raise -> linty -> optic -> toxic
+[WIN][board] raise -> tronc -> myrrh -> board
+[WIN][niche] raise -> lingo -> niece -> niche
+[WIN][truce] raise -> prong -> creme -> truce
+[WIN][heady] raise -> tepal -> heavy -> heady
+[WIN][grade] raise -> drack -> grade
+[WIN][bulge] raise -> nould -> bulge
+[WIN][fecal] raise -> tepal -> decal -> fecal
+[WIN][graft] raise -> tronc -> graft
+[WIN][shrew] raise -> wheep -> shrew
+[WIN][villa] raise -> alant -> villa
+[WIN][cacao] raise -> cyton -> cacao
+[WIN][riper] raise -> dempt -> ripen -> riper
+[WIN][loyal] raise -> cloam -> tonal -> loyal
+[WIN][resin] raise -> resin
+[WIN][fruit] raise -> thong -> fruit
+[WIN][arson] raise -> clapt -> sugar -> arson
+[WIN][winch] raise -> linty -> crowd -> winch
+[WIN][olden] raise -> denet -> unwed -> olden
+[WIN][agape] raise -> black -> apted -> agape
+[WIN][poesy] raise -> plugs -> poesy
+[WIN][lathe] raise -> gulch -> lathe
+[WIN][glass] raise -> slash -> class -> glass
+[WIN][quota] raise -> cloam -> punce -> quota
+[WIN][adobe] raise -> black -> above -> adobe
+[WIN][dense] raise -> cloth -> sense -> dense
+[WIN][tweet] raise -> denet -> tweet
+[WIN][given] raise -> lined -> vixen -> given
+[WIN][tacky] raise -> cyton -> tacky
+[WIN][crypt] raise -> cloot -> crypt
+[WIN][cello] raise -> denet -> brogh -> cello
+[WIN][naive] raise -> waive -> naive
+[WIN][jumbo] raise -> could -> outgo -> jumbo
+[WIN][shalt] raise -> clapt -> shalt
+[WIN][havoc] raise -> cyton -> havoc
+[WIN][favor] raise -> compt -> labor -> favor
+[WIN][crass] raise -> gybes -> crass
+[WIN][buggy] raise -> could -> phang -> gummy -> buggy
+[WIN][arose] raise -> arose
+[WIN][widow] raise -> linty -> vivid -> widow
+[WIN][frail] raise -> gland -> frail
+[WIN][harem] raise -> empty -> maker -> harem
+[WIN][angst] raise -> slash -> angst
+[WIN][swirl] raise -> shirk -> swirl
+[WIN][dwelt] raise -> denet -> dwelt
+[WIN][spook] raise -> poynt -> flock -> spook
+[WIN][limit] raise -> linty -> light -> limit
+[WIN][picky] raise -> linty -> podgy -> picky
+[WIN][rinse] raise -> rinse
+[WIN][tipsy] raise -> stays -> tipsy
+[WIN][alloy] raise -> cloam -> tossy -> alloy
+[WIN][actor] raise -> tronc -> actor
+[WIN][round] raise -> boody -> round
+[WIN][madam] raise -> cyton -> gamma -> madam
+[WIN][slash] raise -> slash
+[WIN][canny] raise -> cyton -> candy -> canny
+[WIN][paste] raise -> thump -> paste
+[WIN][waxen] raise -> notch -> panel -> waxen
+[WIN][final] raise -> alant -> inlay -> final
+[WIN][enter] raise -> coted -> enter
+[WIN][shoot] raise -> poynt -> buchu -> shoot
+[WIN][awful] raise -> cloam -> bufty -> awful
+[WIN][sloop] raise -> poynt -> flock -> sloop
+[WIN][happy] raise -> cyton -> ledgy -> hempy -> happy
+[WIN][bezel] raise -> denet -> bevel -> bezel
+[WIN][alert] raise -> blert -> alert
+[WIN][rearm] raise -> hylas -> rearm
+[WIN][recur] raise -> could -> recut -> recur
+[WIN][remit] raise -> dempt -> remit
+[WIN][ready] raise -> hylas -> ready
+[WIN][baggy] raise -> cyton -> ledgy -> baggy
+[WIN][cheer] raise -> coted -> creep -> cheer
+[WIN][large] raise -> biccy -> large
+[WIN][inlet] raise -> lined -> inlet
+[WIN][riser] raise -> resin -> riser
+[WIN][mammy] raise -> cyton -> ledgy -> hempy -> mammy
+[WIN][steal] raise -> knelt -> steal
+[WIN][teddy] raise -> denet -> teddy
+[WIN][creed] raise -> coted -> creed
+[WIN][ivory] raise -> thong -> ivory
+[WIN][brute] raise -> prong -> creme -> brute
+[WIN][yacht] raise -> cyton -> tacky -> yacht
+[WIN][curvy] raise -> cloot -> ambry -> curvy
+[WIN][vogue] raise -> nould -> vogue
+[WIN][stick] raise -> plant -> stick
+[WIN][neigh] raise -> chynd -> neigh
+[WIN][bobby] raise -> could -> gooby -> hobby -> bobby
+[WIN][devil] raise -> lined -> devil
+[WIN][shine] raise -> plunk -> swine -> shine
+[WIN][chief] raise -> chynd -> chief
+[WIN][pulse] raise -> cloth -> pulse
+[WIN][abase] raise -> butch -> abase
+[WIN][liner] raise -> vined -> dwalm -> liner
+[WIN][carol] raise -> compt -> carol
+[WIN][quake] raise -> black -> awake -> quake
+[WIN][sieve] raise -> singe -> sieve
+[WIN][donor] raise -> cloot -> honor -> donor
+[WIN][shown] raise -> poynt -> swoon -> shown
+[WIN][dilly] raise -> linty -> famed -> dilly
+[WIN][rower] raise -> could -> waved -> rower
+[WIN][bleat] raise -> tepal -> eclat -> bleat
+[WIN][sinew] raise -> stein -> sinew
+[WIN][tepee] raise -> nould -> theme -> tepee
+[WIN][motor] raise -> cloot -> motor
+[WIN][undue] raise -> nould -> dunce -> undue
+[WIN][bison] raise -> shout -> disco -> bison
+[WIN][wordy] raise -> cloot -> hydro -> wordy
+[WIN][extra] raise -> blert -> terra -> extra
+[WIN][bossy] raise -> slobs -> bossy
+[WIN][crumb] raise -> cloot -> ambry -> crumb
+[WIN][proxy] raise -> cloot -> dwang -> proxy
+[WIN][angry] raise -> tronc -> lunar -> angry
+[WIN][rider] raise -> dempt -> rider
+[WIN][betel] raise -> denet -> betel
+[WIN][bench] raise -> denet -> crowd -> bench
+[WIN][ensue] raise -> stonk -> ensue
+[WIN][ramen] raise -> mince -> ramen
+[WIN][vivid] raise -> linty -> vivid
+[WIN][about] raise -> cloam -> punce -> about
+[WIN][bitty] raise -> linty -> bifid -> bitty
+[WIN][serve] raise -> potch -> surge -> serve
+[WIN][fiend] raise -> lined -> fiend
+[WIN][verge] raise -> prong -> merge -> verge
+[WIN][sperm] raise -> wheep -> sperm
+[WIN][women] raise -> denet -> clove -> women
+[WIN][wench] raise -> denet -> crowd -> wench
+[WIN][couch] raise -> could -> cough -> couch
+[WIN][think] raise -> clint -> thing -> think
+[WIN][flake] raise -> black -> flake
+[WIN][tithe] raise -> lingo -> punce -> tithe
+[WIN][elite] raise -> cloth -> elite
+[WIN][swoon] raise -> poynt -> swoon
+[WIN][mirth] raise -> thong -> birth -> mirth
+[WIN][trunk] raise -> cloot -> thrum -> trunk
+[WIN][drake] raise -> drack -> drake
+[WIN][exist] raise -> heist -> exist
+[WIN][quill] raise -> clint -> guild -> quill
+[WIN][valet] raise -> notch -> valet
+[WIN][smash] raise -> slash -> dwalm -> smash
+[WIN][grape] raise -> drack -> gavot -> graze -> grape
+[WIN][phase] raise -> butch -> phase
+[WIN][lucky] raise -> could -> mulch -> lucky
+[WIN][elope] raise -> nould -> veges -> elope
+[WIN][stand] raise -> clapt -> stand
+[WIN][probe] raise -> prong -> probe
+[WIN][gavel] raise -> notch -> bagel -> gavel
+[WIN][copse] raise -> cloth -> copse
+[WIN][eaten] raise -> notch -> eaten
+[WIN][smith] raise -> plant -> stick -> smith
+[WIN][windy] raise -> linty -> kiddo -> windy
+[WIN][pence] raise -> nould -> porch -> pence
+[WIN][basal] raise -> tolan -> basal
+[WIN][rebar] raise -> hylas -> recap -> rebar
+[WIN][pitch] raise -> linty -> crowd -> hitch -> pitch
+[WIN][cyber] raise -> coted -> creep -> cyber
+[WIN][golem] raise -> denet -> vowel -> golem
+[WIN][exact] raise -> tepal -> exact
+[WIN][amiss] raise -> amiss
+[WIN][clear] raise -> blert -> clear
+[WIN][willy] raise -> linty -> famed -> bokeh -> willy
+[WIN][pinch] raise -> linty -> crowd -> finch -> pinch
+[WIN][abode] raise -> black -> above -> abode
+[WIN][truer] raise -> coted -> beret -> truer
+[WIN][biddy] raise -> linty -> podgy -> biddy
+[WIN][tweak] raise -> tepal -> tweak
+[WIN][savvy] raise -> tolan -> punce -> savvy
+[WIN][qualm] raise -> cloam -> qualm
+[WIN][spore] raise -> potch -> spore
+[WIN][apart] raise -> tronc -> altar -> apart
+[WIN][scrub] raise -> poynt -> shrub -> scrub
+[WIN][party] raise -> compt -> party
+[WIN][tally] raise -> cyton -> bufty -> tally
+[WIN][welsh] raise -> plugs -> welsh
+[WIN][icing] raise -> clint -> icing
+[WIN][eying] raise -> chynd -> eying
+[WIN][glory] raise -> cloot -> glory
+[WIN][circa] raise -> gland -> vicar -> circa
+[WIN][mauve] raise -> gulch -> mauve
+[WIN][flyer] raise -> coted -> ulpan -> flyer
+[WIN][vomit] raise -> linty -> optic -> vomit
+[WIN][mangy] raise -> cyton -> dwalm -> mangy
+[WIN][taunt] raise -> cyton -> hoved -> thagi -> taunt
+[WIN][blast] raise -> slash -> estop -> blast
+[WIN][wrung] raise -> cloot -> fyked -> wrung
+[WIN][quest] raise -> plugs -> quest
+[WIN][croak] raise -> tronc -> croak
+[WIN][hovel] raise -> denet -> vowel -> hovel
+[WIN][valve] raise -> gulch -> valve
+[WIN][apnea] raise -> tepal -> apnea
+[WIN][troop] raise -> cloot -> troop
+[WIN][exile] raise -> cloth -> guile -> exile
+[WIN][agora] raise -> tronc -> agora
+[WIN][erupt] raise -> coted -> exert -> erupt
+[WIN][rugby] raise -> boody -> rugby
+[WIN][group] raise -> cloot -> dwang -> group
+[WIN][cider] raise -> vined -> wider -> cider
+[WIN][flame] raise -> black -> dempt -> flame
+[WIN][spoof] raise -> poynt -> flock -> spoof
+[WIN][mocha] raise -> cloam -> mocha
+[WIN][lobby] raise -> could -> estop -> lobby
+[WIN][avail] raise -> alant -> avail
+[WIN][scale] raise -> thilk -> scale
+[WIN][minty] raise -> linty -> minty
+[WIN][birth] raise -> thong -> birth
+[WIN][brand] raise -> tronc -> bifid -> brand
+[WIN][witty] raise -> linty -> bifid -> witty
+[WIN][mango] raise -> cyton -> banjo -> mango
+[WIN][debar] raise -> blert -> amber -> debar
+[WIN][denim] raise -> lined -> denim
+[WIN][mount] raise -> could -> youth -> mount
+[WIN][hippy] raise -> linty -> podgy -> wimpy -> hippy
+[WIN][woozy] raise -> could -> gooby -> woozy
+[WIN][rupee] raise -> rogue -> rupee
+[WIN][breed] raise -> coted -> begun -> breed
+[WIN][woken] raise -> denet -> clove -> women -> woken
+[WIN][tying] raise -> clint -> thing -> tying
+[WIN][genie] raise -> lingo -> genie
+[WIN][brawn] raise -> tronc -> debye -> brawn
+[WIN][knave] raise -> black -> awake -> knave
+[WIN][blown] raise -> could -> bloom -> blown
+[WIN][gusto] raise -> poynt -> stood -> gusto
+[WIN][fever] raise -> coted -> ulpan -> fever
+[WIN][diver] raise -> vined -> diver
+[WIN][yearn] raise -> blert -> yearn
+[WIN][navel] raise -> notch -> navel
+[WIN][cinch] raise -> linty -> crowd -> cinch
+[WIN][knack] raise -> cloam -> begun -> knack
+[WIN][trice] raise -> dempt -> batts -> trice
+[WIN][bible] raise -> lingo -> title -> bible
+[WIN][still] raise -> plant -> still
+[WIN][carry] raise -> compt -> carry
+[WIN][flack] raise -> cloam -> black -> flack
+[WIN][soapy] raise -> clapt -> soapy
+[WIN][pause] raise -> umped -> pause
+[WIN][lynch] raise -> could -> lynch
+[WIN][flesh] raise -> plugs -> flesh
+[WIN][opera] raise -> blert -> opera
+[WIN][enjoy] raise -> denet -> enjoy
+[WIN][royal] raise -> royal
+[WIN][apply] raise -> cloam -> bufty -> apply
+[WIN][faith] raise -> plong -> faith
+[WIN][lager] raise -> empty -> gowfs -> lager
+[WIN][stoke] raise -> stonk -> stoke
+[WIN][terse] raise -> netop -> terse
+[WIN][adapt] raise -> cloam -> guava -> adapt
+[WIN][slope] raise -> stonk -> scope -> slope
+[WIN][cater] raise -> empty -> latch -> cater
+[WIN][style] raise -> stonk -> style
+[WIN][glaze] raise -> black -> dempt -> glaze
+[WIN][bugle] raise -> nould -> tulle -> bugle
+[WIN][synod] raise -> poynt -> synod
+[WIN][missy] raise -> stays -> missy
+[WIN][draft] raise -> tronc -> graft -> draft
+[WIN][plaid] raise -> alant -> medic -> plaid
+[WIN][child] raise -> clint -> dural -> child
+[WIN][heath] raise -> tepal -> death -> heath
+[WIN][model] raise -> denet -> clued -> model
+[WIN][gloss] raise -> slobs -> gloss
+[WIN][druid] raise -> thong -> druid
+[WIN][tuber] raise -> coted -> beret -> tuber
+[WIN][grave] raise -> drack -> gavot -> grave
+[WIN][caulk] raise -> cyton -> caulk
+[WIN][orbit] raise -> thong -> orbit
+[WIN][mogul] raise -> could -> mogul
+[WIN][chirp] raise -> tronk -> chirp
+[WIN][mucus] raise -> poynt -> shuck -> mucus
+[WIN][fuzzy] raise -> could -> phang -> fuzzy
+[WIN][gawky] raise -> cyton -> ledgy -> gawky
+[WIN][shaft] raise -> clapt -> shaft
+[WIN][petty] raise -> denet -> patly -> petty
+[WIN][roast] raise -> roast
+[WIN][coven] raise -> denet -> clove -> coven
+[WIN][front] raise -> cloot -> grout -> front
+[WIN][learn] raise -> blert -> learn
+[WIN][sheep] raise -> tweep -> sleep -> sheep
+[WIN][sooth] raise -> poynt -> sooth
+[WIN][witch] raise -> linty -> crowd -> witch
+[WIN][nerdy] raise -> coted -> derby -> nerdy
+[WIN][fritz] raise -> tronk -> drift -> fritz
+[WIN][dirge] raise -> fibre -> dirge
+[WIN][vinyl] raise -> linty -> vinyl
+[WIN][stock] raise -> poynt -> stood -> stock
+[WIN][jetty] raise -> denet -> patly -> jetty
+[WIN][graph] raise -> tronc -> heald -> graph
+[WIN][shock] raise -> poynt -> chalk -> shock
+[WIN][bylaw] raise -> cloam -> pupal -> bylaw
+[WIN][proud] raise -> cloot -> dwang -> fjord -> proud
+[WIN][feral] raise -> blert -> feral
+[WIN][torus] raise -> poynt -> torus
+[WIN][privy] raise -> tronk -> cadgy -> privy
+[WIN][flora] raise -> tronc -> agora -> flora
+[WIN][foray] raise -> tronc -> myrrh -> foray
+[WIN][scamp] raise -> clapt -> scamp
+[WIN][gonad] raise -> cloam -> today -> gonad
+[WIN][ester] raise -> wheep -> sever -> ester
+[WIN][rouge] raise -> rogue -> rouge
+[WIN][write] raise -> dempt -> batts -> write
+[WIN][theft] raise -> denet -> cleft -> theft
+[WIN][cheat] raise -> tepal -> wheat -> cheat
+[WIN][wight] raise -> linty -> crowd -> wight
+[WIN][meter] raise -> coted -> enter -> meter
+[WIN][stale] raise -> thilk -> stale
+[WIN][slump] raise -> poynt -> slump
+[WIN][piper] raise -> vined -> flimp -> piper
+[WIN][touch] raise -> could -> taver -> touch
+[WIN][truck] raise -> cloot -> truck
+[WIN][madly] raise -> cyton -> ledgy -> badly -> madly
+[WIN][chase] raise -> butch -> chase
+[WIN][raven] raise -> mince -> raven
+[WIN][erase] raise -> arose -> erase
+[WIN][agile] raise -> blink -> agile
+[WIN][south] raise -> poynt -> sooth -> south
+[WIN][flown] raise -> could -> bloom -> flown
+[WIN][sixth] raise -> shout -> sixth
+[WIN][murky] raise -> cloot -> fyked -> murky
+[WIN][arena] raise -> blert -> macaw -> arena
+[WIN][valid] raise -> clipt -> valid
+[WIN][tract] raise -> tronc -> track -> tract
+[WIN][corny] raise -> cloot -> corny
+[WIN][forum] raise -> cloot -> hydro -> forum
+[WIN][fudge] raise -> nould -> bufty -> fudge
+[WIN][helix] raise -> lined -> helix

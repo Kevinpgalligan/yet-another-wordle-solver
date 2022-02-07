@@ -6,6 +6,7 @@ import sys
 import argparse
 import time
 import math
+import tqdm
 
 parser = argparse.ArgumentParser(description="""A Wordle solver.
 
@@ -55,14 +56,18 @@ for secret in secrets:
         secrets_exact[(letter, i)].add(secret)
 
 def expected_reduced_set_size(guess, possibles):
-    reduced_set_size_sum = 0
+    # The remaining words can be bucketed by the type
+    # of hint they give for this guess. The size of a bucket
+    # is the number of remaining possibilities if that hint
+    # is returned. And the size of a bucket also determines
+    # its probability, since the words are equally probable.
+    hint_counts = collections.defaultdict(int)
     for secret in possibles:
-        # Assuming this is the secret word, how much does our guess reduce the set?
-        size = calculate_reduced_set_size(guess, secret, possibles)
-        if size == 0:
-            raise Exception("Reduced set size of 0 for word: " + guess)
-        reduced_set_size_sum += size
-    return reduced_set_size_sum/len(possibles)
+        hint_counts[make_hint(guess, secret)] += 1
+    result = 0
+    for count in hint_counts.values():
+        result += (count/len(possibles)) * count
+    return result
 
 def make_hint(guess, secret):
     secret_counts = count_letters(secret)
@@ -107,14 +112,6 @@ def reduce_set_with_hint_inplace(guess, hint, possibles):
         if l in exact_count_chars:
             possibles -= secrets_counts[(l, c+1)]
 
-def calculate_reduced_set_size(guess, secret, possibles):
-    possibles = possibles.copy()
-    hint = make_hint(guess, secret)
-    reduce_set_with_hint_inplace(guess, hint, possibles)
-    if debug:
-        print("guess:", guess, "- secret:", secret, "- hint:", hint, "- remaining:", possibles)
-    return len(possibles)
-
 def rank_guesses(possibles, print_progress=False):
     guess_ranking = []
     t0 = time.time()
@@ -132,15 +129,11 @@ def evaluate_after_initial_guesses(secret, initial_guesses, fout=False):
     guesses_so_far = initial_guesses.copy()
     for g in initial_guesses:
         reduce_set_inplace(g, secret, possibles)
-    while True:
+    while (not guesses_so_far or guesses_so_far[-1] != secret) and len(guesses_so_far) < 6:
         guess_ranking = rank_guesses(possibles)
         next_guess = guess_ranking[0][0]
         reduce_set_inplace(next_guess, secret, possibles)
         guesses_so_far.append(next_guess)
-        if next_guess == secret:
-            break
-        if len(guesses_so_far) >= 6:
-            break
     success = (guesses_so_far[-1] == secret)
     if fout:
         if success: fout.write("[WIN]")
@@ -157,9 +150,12 @@ if args.test:
     print("All tests passed.")
     sys.exit(0)
 
-if args.continue_from:
+if args.continue_from is not None:
     possibles = secrets.copy()
-    so_far = [pair.split(",") for pair in args.continue_from.split(";")]
+    if args.continue_from:
+        so_far = [pair.split(",") for pair in args.continue_from.split(";")]
+    else:
+        so_far = []
     for (guess, hint) in so_far:
         if guess not in guesses or len(guess) != len(hint):
             print("[ERROR] Invalid guess:", guess)
@@ -180,7 +176,7 @@ if args.continue_from:
                 f.write(" ")
                 f.write(str(erss))
                 f.write("\n")
-elif args.evaluate:
+elif args.evaluate is not None:
     initial_guesses = args.evaluate.split(",")
     assert len(initial_guesses) < 6
     success_sum = 0
@@ -188,15 +184,12 @@ elif args.evaluate:
     guess_distr = collections.defaultdict(int)
     t0 = time.time()
     f = open(args.output_to, "w") if args.output_to else False
-    for i, secret in enumerate(secrets):
+    for secret in tqdm.tqdm(secrets):
         success, num_guesses = evaluate_after_initial_guesses(secret, initial_guesses, fout=f)
         if success:
             success_sum += 1
             total_guesses += num_guesses
             guess_distr[num_guesses] += 1
-        if i % math.ceil(len(secrets)/10) == 0:
-            print(f"({time.time()-t0} sec) Finished evaluating performance with",
-                  i, "out of", len(secrets), "secrets.")
     print("Successes:", success_sum, "out of", len(secrets), f"({100*(success_sum/len(secrets))}%)")
     print("In the success cases, there was a mean of", total_guesses/success_sum, "guesses.")
     print("Guess distribution:")

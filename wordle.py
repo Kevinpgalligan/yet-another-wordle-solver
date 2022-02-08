@@ -1,6 +1,3 @@
-# For comparison...
-#   https://news.ycombinator.com/item?id=30050231
-
 import collections
 import sys
 import argparse
